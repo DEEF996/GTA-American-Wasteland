@@ -6,7 +6,7 @@
 
 ![The bilingual GTA American Wasteland launcher](docs/launcher.png)
 
-An unofficial single-player mod for classic **Grand Theft Auto: San Andreas** on Windows. Switch between GTA and skating as CJ, use original Tony Hawk's American Wasteland tricks and animations, build combos, grind eligible world edges, and aim and fire while riding.
+An single-player mod for classic **Grand Theft Auto: San Andreas** on Windows. Switch between GTA and skating as CJ, use original Tony Hawk's American Wasteland tricks and animations, build combos, grind eligible world edges, and aim and fire while riding.
 
 **1.0 preview:** a working integration under active testing. Some surfaces, animation transitions and timing spikes still need refinement. This is not a promise of complete THAW parity or compatibility with every GTA mod.
 
