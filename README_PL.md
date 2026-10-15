@@ -18,7 +18,7 @@ Kliknij miniaturę, aby otworzyć oryginalny screen w pełnym rozmiarze.
   <tr>
     <td><a href="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/1.png"><img src="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/1.png" width="260" alt="CJ wykonuje manual na torach kolejowych z widocznym wskaźnikiem balansu THAW"></a><br>Manuale i balans</td>
     <td><a href="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/2.png"><img src="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/2.png" width="260" alt="CJ strzela podczas wykonywania combosa na desce"></a><br>Strzelanie podczas jazdy</td>
-    <td><a href="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/3.png"><img src="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/3.png" width="260" alt="CJ celuje ze strzelby podczas triku w powietrzu obok samochodów"></a><br>Triki w powietrzu i celowanie</td>
+    <td><a href="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/3.png"><img src="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/3.png" width="260" alt="CJ celuje, nadal wisząc na krawędzi w trybie parkour THAW"></a><br>Celowanie podczas wiszenia</td>
   </tr>
   <tr>
     <td><a href="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/4.png"><img src="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/4.png" width="260" alt="CJ wykonuje boardslide po krawędzi z widocznym wskaźnikiem balansu grindu"></a><br>Grindy i combosy</td>

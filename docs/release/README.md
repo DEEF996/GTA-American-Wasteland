@@ -18,7 +18,7 @@ Click any thumbnail to open the original full-size screenshot.
   <tr>
     <td><a href="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/1.png"><img src="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/1.png" width="260" alt="CJ performing a manual on the railway tracks with the THAW balance meter"></a><br>Manuals and balance</td>
     <td><a href="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/2.png"><img src="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/2.png" width="260" alt="CJ firing a weapon while performing a skateboard combo"></a><br>Shooting while skating</td>
-    <td><a href="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/3.png"><img src="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/3.png" width="260" alt="CJ aiming a shotgun during an aerial trick beside traffic"></a><br>Aerial tricks and aiming</td>
+    <td><a href="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/3.png"><img src="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/3.png" width="260" alt="CJ aiming while hanging from a ledge in THAW parkour mode"></a><br>Hanging and aiming</td>
   </tr>
   <tr>
     <td><a href="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/4.png"><img src="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/4.png" width="260" alt="CJ boardsliding along a ledge with the THAW grind balance meter"></a><br>Grinds and combos</td>
