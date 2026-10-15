@@ -1,0 +1,16 @@
+research/
+local/
+runtime/
+downloads/
+build/
+.build/
+dist/
+installation.json
+launcher-settings.json
+**/__pycache__/
+**/target/
+**/settings.json
+**/thaw_gta/
+*.log
+*.db
+*.sqlite

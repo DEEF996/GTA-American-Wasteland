@@ -1,0 +1,285 @@
+{
+  "format": "stock-resource-proof-pins-v1",
+  "stock_exe_sha256": "ff3351529586eefba74d85a807282e18101844e68ecaa5cee20a0a16bed0b118",
+  "audit_sha256": "2ea095525568f52076d43e9c4afda3cb8779ed1182adb14b17ca584621820b3c",
+  "functions": [
+    [
+      "exit_table_initialize",
+      6733987,
+      40,
+      "20636c06ae19be1b75841eed6fc4e923a2b146b1e5b8893ffce79cc56f2220a7"
+    ],
+    [
+      "async_file_bootstrap",
+      6464224,
+      298,
+      "13c52a994b2c3bb932feaf5875ad4b9419ab2d81e7a0985babc8ef824f87d9ff"
+    ],
+    [
+      "async_file_worker",
+      6463552,
+      367,
+      "2007721cc9de57e85db99717430136cc5e87cd8639a6c244bc071b59d16fd674"
+    ],
+    [
+      "async_file_wait_all",
+      6458256,
+      108,
+      "8b1dd95b3b29b8d05a5b901e7488a146ef8f9527d5dfd0d802155f87a27144b9"
+    ],
+    [
+      "original_build_full_path",
+      6462000,
+      200,
+      "fe7b8cbfb801c9dcb2419ca10f15412f6ccb90ce862fd9412feb9fcd0bb403b2"
+    ],
+    [
+      "original_file_open_win32",
+      6464528,
+      224,
+      "bd705b5055f56d02aad367a1651cba7644c2ed0ea2f973e1a0d5ca584600dd24"
+    ],
+    [
+      "RendererCriticalSectionCRTInitializer",
+      6852928,
+      23,
+      "551f45799d91703799403c3b73e3e0e3609106f046edc0ffa2ec55dff824d744"
+    ],
+    [
+      "SpriteDictionaryCRT",
+      6852512,
+      19,
+      "1f917793756832ac8b6de38c1970255740105a3f9d71385689fba44ec5608d2d"
+    ],
+    [
+      "SpriteAliasCRT",
+      6852544,
+      11,
+      "780f17750dcc4dcda36199cefecb916a511ad7568cf5c9dd17588409a06f754d"
+    ],
+    [
+      "TextureObserverQueueSingleton",
+      6475840,
+      105,
+      "1a11273cfd2f27c1d5460f4ffad1f1483162fba62b3db76500b347070331cacf"
+    ],
+    [
+      "TextureMetadataConstructor",
+      6484272,
+      1105,
+      "6ad692ca9d6b08b4902e4be3c20b8b58dbb3049c7b845b05809bbeb203ea7dc4"
+    ],
+    [
+      "TextureMetadataGlobalCleanup",
+      6480512,
+      55,
+      "179eabb811629ff4344ad1bad4483f03136c5c2898be9036f1e63cc0a7c355d8"
+    ],
+    [
+      "DictionaryLoadTextureRAM",
+      5163312,
+      125,
+      "2bacf14c782f2530465f7edaf19d2c62386e840924391ec7a87bc2266f9d062a"
+    ],
+    [
+      "DictionaryCloneTexture",
+      5163984,
+      55,
+      "798583a7c6545476684a74ffc22e3360eb499b153505f669f50949cadc1d4492"
+    ],
+    [
+      "TextureRAMFactory",
+      5378768,
+      162,
+      "9724dec83979ae8ebd90bf9e47130bfb5b92ffa431212fd670b32f5e88d06288"
+    ],
+    [
+      "TextureDataDecodeRAM",
+      5514672,
+      481,
+      "52f3fa858c84d099f689b923cd2f89b17af8e1f456783d6b3323fa8a511632f1"
+    ],
+    [
+      "PlatformTextureUploadBitmap",
+      5387056,
+      349,
+      "73eb2668eeea7cfb8c36fdae8e006c6abc7fc130e506b575ed96a9f0de938688"
+    ],
+    [
+      "TaggingInit",
+      6259584,
+      416,
+      "583624a5a9527add144d5ec1c897576bbd423ea646deae3db580173a8fa6c441"
+    ],
+    [
+      "OriginalGlobalGetArray",
+      4289760,
+      30,
+      "a02c7f3b25c54f55949c43b4ecc8505b9a6aef6afc96f2b5ce163a69e879bfa6"
+    ],
+    [
+      "OriginalGlobalGetInteger",
+      4289536,
+      40,
+      "5c1df69111e5a94a307e5955c0527d93f95cbeebaf2b561532fae32711a1f9d6"
+    ],
+    [
+      "OriginalArrayGetChecksum",
+      4236128,
+      19,
+      "9265d1038aff2504422cdb41e174ee200a9d7d967d2db721bd5fe0b1ae06b7e9"
+    ],
+    [
+      "assetmanager_factory",
+      5803440,
+      77,
+      "8a1b3b78ffaf3b2eef569312057e5bdd07a4586678496a866e0b0e86a994a576"
+    ],
+    [
+      "assetmanager_ctor",
+      5802768,
+      167,
+      "ef4698f0e56db2248bac45c4950bcad09b3b17986c47efbc29381e11adf4d1cb"
+    ],
+    [
+      "TextureRegistryCRT",
+      6852480,
+      26,
+      "f3e2e4182e222aaaa73fe29dde8c38e28235e4a8392e7866dad184cb8ad182ac"
+    ],
+    [
+      "VertexBufferMapCRT",
+      6853184,
+      22,
+      "5d7c04b2f3058bbbcf34b115b5d1f8fdf6c7bbb4cef347368b222135a1b57f31"
+    ],
+    [
+      "IndexBufferMapCRT",
+      6853216,
+      22,
+      "e6683c60e74ec2acadb8953f0a2ddbbc402d179ccfa2da4bd9e58df631adb696"
+    ],
+    [
+      "PixelShaderCacheCRT",
+      6853248,
+      26,
+      "1d2d66daf7964f8dfc1ad1e4023f5e551cfc4d83da75b4c3759e3739036fae13"
+    ],
+    [
+      "VertexShaderCacheCRT",
+      6853280,
+      26,
+      "284c16238784bd3a057e7640b55aa4a10e4e565ce90623cba5e5943b2f9cb4a7"
+    ],
+    [
+      "TextureMetadataSingleton",
+      4416288,
+      6,
+      "9f4f346099e6844c10ac6d00d9219ccea747fd102bc422c0488b8f69408bd590"
+    ],
+    [
+      "DictionaryFindTextureName",
+      5161392,
+      6,
+      "7de8e0502677fb9891d861ddc36772c5d24399dcab63cf921b310b3b4b7a73b4"
+    ],
+    [
+      "DecalInitializeFromWholeSource",
+      5149408,
+      6,
+      "5d98f98c3ef8bada676b1ac1a2672b5b417388e481130f0bc4fe93f08efd1f54"
+    ]
+  ],
+  "files": [
+    {
+      "relative_path": "data/images/tags/cas_01.img.wpc",
+      "bytes": 16412,
+      "sha256": "3e7c3391466b745dd6d9f6c422df5f7cd731c06d613a3350dd0a902a7268eeb8",
+      "purpose": "Original 128x128 Tagging texture"
+    },
+    {
+      "relative_path": "data/images/tags/sticker.img.wpc",
+      "bytes": 4124,
+      "sha256": "59f1224f9caafe09bff39237cbc5942a05591662012c52e93bbfcf98de4aaaf5",
+      "purpose": "Original 64x64 Tagging texture"
+    },
+    {
+      "relative_path": "data/streams/bik/mad.bik",
+      "bytes": 12104,
+      "sha256": "f3b8ed85659a14951e478e4ca216f208f5f0daca9f354cb4e94143286504259e",
+      "purpose": "Original texture subscriber INI metadata; not a movie playback fixture"
+    }
+  ],
+  "qb_sources": [
+    {
+      "order": 27,
+      "canonical_name": "scripts/game/skutils.qb.wpc",
+      "bytes": 42376,
+      "sha256": "b594dde4f7b2c26c9114d05f2206d14eb13f460c2fd1d54da9f7ae17fde02493",
+      "cache_file": "members/0027.qb"
+    },
+    {
+      "order": 223,
+      "canonical_name": "scripts/fx/splat_data.qb.wpc",
+      "bytes": 364,
+      "sha256": "0783d0ab4dd1aac0e06c6e369e156cacfce10beef897a9b73cc126cd5b8c76b7",
+      "cache_file": "members/0223.qb"
+    }
+  ],
+  "globals": {
+    "device": 8310020,
+    "crt_exit_begin": 8717808,
+    "crt_exit_current": 8717804,
+    "texture_registry": 7778956,
+    "sprite_dictionary": 7778984,
+    "sprite_alias": 7778988,
+    "sprite_vtable": 6903040,
+    "metadata": 8673764,
+    "observer_queue": 8673772,
+    "renderer_critical_section": 8310264,
+    "vertex_map": 8336772,
+    "index_map": 8336760,
+    "pixel_cache": 8619064,
+    "vertex_cache": 8618968,
+    "decal_primary": 7776884,
+    "decal_secondary": 7776888,
+    "decal_flags": 7776892,
+    "asset_manager": 8644732,
+    "asset_manager_refs": 8644736,
+    "file_handler_array": 8668160,
+    "file_handler_count": 8668224,
+    "file_active_count": 8668228,
+    "file_pending_count": 8668232,
+    "file_request_event": 8671884,
+    "file_complete_event": 8671888,
+    "file_worker_handle": 8671928,
+    "file_worker_id": 8671932
+  },
+  "crt_table": {
+    "va": 7061504,
+    "bytes": 552,
+    "sha256": "d26b0becf984e0aa0629dd6688b0ed5cf96276fa5dbfb1f354d221af695d278c"
+  },
+  "crt_indices": [
+    [
+      6852480,
+      62
+    ],
+    [
+      6853184,
+      82
+    ],
+    [
+      6853216,
+      83
+    ],
+    [
+      6853248,
+      84
+    ],
+    [
+      6853280,
+      85
+    ]
+  ]
+}

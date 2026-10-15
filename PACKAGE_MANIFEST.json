@@ -1,0 +1,2013 @@
+{
+  "format": "gta-thaw-public-integration-package-v2",
+  "version": "1.0.0-preview.1",
+  "source_only": true,
+  "original_game_assets_included": false,
+  "original_game_executables_included": false,
+  "third_party_binaries_included": false,
+  "private_research_included": false,
+  "external_python_installation_required": true,
+  "python_runtime": null,
+  "files": [
+    {
+      "path": "Configure-GTA-THAW.cmd",
+      "bytes": 729,
+      "sha256": "7a33d6c468deec1585f5bcdd22548dd4db9bfcb68a944413b326a6233e30adfb"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1478,
+      "sha256": "5d2c5c27d1c98ebca872a02728d2f0e73ed08094aabff5ad88a17a3bba55fe8e"
+    },
+    {
+      "path": "README.md",
+      "bytes": 7253,
+      "sha256": "81995f3bb2ffef98e236bc83afbf2d3945fb64fb85d5b3faeaa5e7e8161b718d"
+    },
+    {
+      "path": "README_PL.md",
+      "bytes": 7627,
+      "sha256": "5fdf0465f06e4ead70efb9cc9644ebef356133c8f0b32f9582a2e452e7c04650"
+    },
+    {
+      "path": "Run-GTA-American-Wasteland.cmd",
+      "bytes": 736,
+      "sha256": "18d4cd1f8d7c576dbbc44ab29cf7f41ef64257e9d9cf8d08fad56bf2f98948b7"
+    },
+    {
+      "path": "Run-GTA-THAW.cmd",
+      "bytes": 745,
+      "sha256": "4ff9568086efc148b76e894e2bb1c29478afbd0312155490ceb0094ae9aa9733"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "bytes": 6121,
+      "sha256": "1317f9910518a3de8fe261b9930c4ac94a72fc4308ea4dcde977e2492c718ca7"
+    },
+    {
+      "path": "docs/BUILDING.md",
+      "bytes": 4833,
+      "sha256": "b7dbbdf25e8a6942636cc41e97fa618c3b152a1555492a4dd3effc80ba2bb6d3"
+    },
+    {
+      "path": "docs/gta-first-run.md",
+      "bytes": 68344,
+      "sha256": "1493dd0838a281cb9d4a10be52afd31a7901a4bba5c045dac75da6af837af8cb"
+    },
+    {
+      "path": "docs/launcher.png",
+      "bytes": 30091,
+      "sha256": "f28b2f1319859265f67cc364dbf7b4d8c646488b4b8d6a93fad72b00e898bf82"
+    },
+    {
+      "path": "docs/release/BUILDING.md",
+      "bytes": 4833,
+      "sha256": "b7dbbdf25e8a6942636cc41e97fa618c3b152a1555492a4dd3effc80ba2bb6d3"
+    },
+    {
+      "path": "docs/release/README.md",
+      "bytes": 7253,
+      "sha256": "81995f3bb2ffef98e236bc83afbf2d3945fb64fb85d5b3faeaa5e7e8161b718d"
+    },
+    {
+      "path": "docs/release/README_PL.md",
+      "bytes": 7627,
+      "sha256": "5fdf0465f06e4ead70efb9cc9644ebef356133c8f0b32f9582a2e452e7c04650"
+    },
+    {
+      "path": "docs/release/launcher.png",
+      "bytes": 30091,
+      "sha256": "f28b2f1319859265f67cc364dbf7b4d8c646488b4b8d6a93fad72b00e898bf82"
+    },
+    {
+      "path": "tools/assets_export.py",
+      "bytes": 9237,
+      "sha256": "7d3e4fcedb3ed7ffc6fd8b810e396b54fc1c55df4b492968b9a493d996c43bf4"
+    },
+    {
+      "path": "tools/assets_models.py",
+      "bytes": 17843,
+      "sha256": "14c9e607704104fc6b818b60f105d855d2d736711e9937e2222d8850860563a0"
+    },
+    {
+      "path": "tools/assets_skeleton.py",
+      "bytes": 11045,
+      "sha256": "c1bf5ec372d555f152e337e74a92976da264cd8e48167f70bc2c8b357b7395c1"
+    },
+    {
+      "path": "tools/carentan_col.py",
+      "bytes": 18859,
+      "sha256": "9231e756d0da7427015529c3a74d119aff77cb7b7cb74b36bee02f3e710aa6e7"
+    },
+    {
+      "path": "tools/carentan_qb.py",
+      "bytes": 7400,
+      "sha256": "2c754456109e07623e1c8c20e3996b14c9d2155f58482cb8649e7e4e97338809"
+    },
+    {
+      "path": "tools/gta/aim_input.py",
+      "bytes": 4079,
+      "sha256": "6bfefc625958ef18773036a7d2745986a3669877bd50620600bd890377f00488"
+    },
+    {
+      "path": "tools/gta/atomic_store.py",
+      "bytes": 2974,
+      "sha256": "64a4a18516538f68ae9199f9608303a5c12606566392e09e0463731a7498654f"
+    },
+    {
+      "path": "tools/gta/attack.py",
+      "bytes": 2789,
+      "sha256": "a636eb2d174dc4a9e65d9d5ed4392c2b5ca9ee2219e3a1207caa596fbfa91935"
+    },
+    {
+      "path": "tools/gta/audio_focus.py",
+      "bytes": 2540,
+      "sha256": "0dff72a0245f9e5208f98b32d2ab89f464fbfb3ce5f3cd7d053515f85cde1406"
+    },
+    {
+      "path": "tools/gta/audio_mix.py",
+      "bytes": 3515,
+      "sha256": "84922b37c9b315467fcd1fdd7b78b4a5943e4061659618f0828394fcf5ded740"
+    },
+    {
+      "path": "tools/gta/audio_session.py",
+      "bytes": 8989,
+      "sha256": "984105589bf7aaafce63db8bd44c64f446223518e70dd4768d7d75020a3944b2"
+    },
+    {
+      "path": "tools/gta/board_preview.py",
+      "bytes": 12144,
+      "sha256": "20636f6b893f00956feb3c9b1e5ecd4cb9f17976c2796cca50322e1debb1025e"
+    },
+    {
+      "path": "tools/gta/camera_preview.py",
+      "bytes": 4058,
+      "sha256": "83d4e9ceac5eeec59c8102320376b9c1576d83a05a6e213a3786f007cc548ee4"
+    },
+    {
+      "path": "tools/gta/compiler_job.py",
+      "bytes": 2416,
+      "sha256": "51a80415b22b8db2c801b879d3aeb724d34849c04823092df6a909005329bdbf"
+    },
+    {
+      "path": "tools/gta/compiler_payload.py",
+      "bytes": 912,
+      "sha256": "de815756fd9291a2045a20e23de74bd54e6f718c43b448a9d91f0183381fa8e0"
+    },
+    {
+      "path": "tools/gta/deploy_probe.ps1",
+      "bytes": 3997,
+      "sha256": "53ed0cd6f8a194efd50ad61f26a06bbdf78ad58ff3114f711a8c646c27b353dd"
+    },
+    {
+      "path": "tools/gta/file_hash_cache.py",
+      "bytes": 9160,
+      "sha256": "97394fe6e947ece057a338d0269898ab78c55e2482ed573b9e120fe598b51f6a"
+    },
+    {
+      "path": "tools/gta/frame_timings.py",
+      "bytes": 4311,
+      "sha256": "05fa4dedc0726e6db1055b3360ceae727b2e7feb1a53d2c9377b004c9e31252f"
+    },
+    {
+      "path": "tools/gta/game_effects.py",
+      "bytes": 5927,
+      "sha256": "e737992e1f7a67000b0656405ad9002d2a475fd6562885d16baa60e11729d0ef"
+    },
+    {
+      "path": "tools/gta/gameplay_pose.py",
+      "bytes": 10686,
+      "sha256": "66f772de56d5f1bfa0897c8a60bb20645ff9dfc1fb302631dedf4454c8d97bb2"
+    },
+    {
+      "path": "tools/gta/geometry.py",
+      "bytes": 30254,
+      "sha256": "746355bf8856ec65117b4f24b14ee26bc7824043527e1843f28737f463d9cb2a"
+    },
+    {
+      "path": "tools/gta/global_rails.py",
+      "bytes": 23076,
+      "sha256": "dbb874f37325c28bffd7b64640e484a9af61461b8e54bdd030247510dde8da4e"
+    },
+    {
+      "path": "tools/gta/host/Cargo.lock",
+      "bytes": 80658,
+      "sha256": "cf6887a71b9f43e9be5c0d02b2355de56e01188b6374c26476642d14140d0eaf"
+    },
+    {
+      "path": "tools/gta/host/Cargo.toml",
+      "bytes": 579,
+      "sha256": "4ba398aeb9b55a0da8bdaba91805032f783d8261d592c6e80bba51d606b1be00"
+    },
+    {
+      "path": "tools/gta/host/README.md",
+      "bytes": 2833,
+      "sha256": "5db1d0c0391204b28925e36c0e7785db6e7ee201b23cf06a3f2b152524b9ac97"
+    },
+    {
+      "path": "tools/gta/host/build.ps1",
+      "bytes": 1321,
+      "sha256": "e64686b70145ce4d034be5b3f546fb3cedc2891eafb8d01f710b601090e091b9"
+    },
+    {
+      "path": "tools/gta/host/src/gta_bridge.rs",
+      "bytes": 22315,
+      "sha256": "7518347079b045c4b9b7124dba8eb57e9f5e5923261c78ec795dfb8b2cac8234"
+    },
+    {
+      "path": "tools/gta/host/src/main.rs",
+      "bytes": 701,
+      "sha256": "9a6d095804d48917463de526c89133a091e33aac1d494f1f86984ece0d047280"
+    },
+    {
+      "path": "tools/gta/hud_assets.py",
+      "bytes": 8057,
+      "sha256": "867bbd1f79041c82046b767d9996bdffde3f326c47bd6c9df2f1db73b21635a9"
+    },
+    {
+      "path": "tools/gta/hud_preview.py",
+      "bytes": 4396,
+      "sha256": "13bafdf08ce3e18ef450e28baa48b3cd95322324ea1eee4cca58661d3adcd9e9"
+    },
+    {
+      "path": "tools/gta/hud_quads.py",
+      "bytes": 9491,
+      "sha256": "52f17a74864f5745de9181c4833fd3d43b24ace70290905d324f6986112e3eca"
+    },
+    {
+      "path": "tools/gta/inspect_ipls.py",
+      "bytes": 7974,
+      "sha256": "06172ab7aeebfb1cfa7322becbc65b76e9e21dca76e9e74c26ada88d35875280"
+    },
+    {
+      "path": "tools/gta/inspect_rig.py",
+      "bytes": 15293,
+      "sha256": "13f71e0ce349b637800d5ad58799233d1e7d249a1f2c7c08836128125ef71e34"
+    },
+    {
+      "path": "tools/gta/install.py",
+      "bytes": 22478,
+      "sha256": "fa04cfbd54fdaee6746e31f0d2513719a7c7715a239cc8e60258c8c2f024390d"
+    },
+    {
+      "path": "tools/gta/keyboard_input.py",
+      "bytes": 4888,
+      "sha256": "160eff16488fe4bc4c599c0f341036f8103e205a9f608d3a9d30bc24cf91300a"
+    },
+    {
+      "path": "tools/gta/launch_playtest.py",
+      "bytes": 14841,
+      "sha256": "76ca620837d731aec7c9c58f6b44b0299a354c0bf6ad299db07d16454fc45e17"
+    },
+    {
+      "path": "tools/gta/launcher.py",
+      "bytes": 27098,
+      "sha256": "551843505be82d45551e716b3ece66c329b7265ad9af37ea76b35e69ce6fb8b7"
+    },
+    {
+      "path": "tools/gta/launcher_build.py",
+      "bytes": 1912,
+      "sha256": "2e91df61cd72d2063374c87ec8531c6e42b747d237da57521908557a75525dc5"
+    },
+    {
+      "path": "tools/gta/launcher_native/build.ps1",
+      "bytes": 2882,
+      "sha256": "39f39606516353ae0e757510a8cd15a59e767ddfad15c5ac3cd095993e128b9a"
+    },
+    {
+      "path": "tools/gta/launcher_native/launcher.cpp",
+      "bytes": 3117,
+      "sha256": "f1f30ec251d74f1888bf6dcd8eef35df8af4035920e3f128ed9b6450937421e9"
+    },
+    {
+      "path": "tools/gta/launcher_native/launcher_command.h",
+      "bytes": 805,
+      "sha256": "3a86f49598dd6f585bd1609d0bf099d8230d86ebea7bc5115d9a1dc3d3c0ba16"
+    },
+    {
+      "path": "tools/gta/launcher_native/launcher_test.cpp",
+      "bytes": 770,
+      "sha256": "f51ba79391360afb1f9f03f19ebe38bae951d5349812b48250202b29096caa26"
+    },
+    {
+      "path": "tools/gta/licenses/HighFpsFixes-LICENSE.txt",
+      "bytes": 1095,
+      "sha256": "2e42a5bee0004ca202e05830b271052eaa331be4d917a024f78ddec8c32ba671"
+    },
+    {
+      "path": "tools/gta/licenses/Rust-1.99.0-Apache-2.0.txt",
+      "bytes": 10280,
+      "sha256": "074e6e32c86a4c0ef8b3ed25b721ca23aca83df277cd88106ef7177c354615ff"
+    },
+    {
+      "path": "tools/gta/licenses/Rust-1.99.0-BSD-2-Clause.txt",
+      "bytes": 1267,
+      "sha256": "f32fb3b417a194167cfad068223fc975ba96c5960513a10f66a3c28720aec1df"
+    },
+    {
+      "path": "tools/gta/licenses/Rust-1.99.0-COPYRIGHT-library.html.txt",
+      "bytes": 1499465,
+      "sha256": "5647be074c8edf7339fd863055923a8fc80bc5610a8d4661ec3b767b9d392c27"
+    },
+    {
+      "path": "tools/gta/licenses/Rust-1.99.0-LLVM-compiler-rt-credits.txt",
+      "bytes": 1049,
+      "sha256": "a9901f47a089da41e4690682d00ce4cedaa2baf41fedbe79beee366d43ac2461"
+    },
+    {
+      "path": "tools/gta/licenses/Rust-1.99.0-LLVM-compiler-rt-license.txt",
+      "bytes": 16708,
+      "sha256": "1a8f1058753f1ba890de984e48f0242a3a5c29a6a8f2ed9fd813f36985387e8d"
+    },
+    {
+      "path": "tools/gta/licenses/Rust-1.99.0-LLVM-exception.txt",
+      "bytes": 919,
+      "sha256": "e34c58338bd89d43e709e226610d8f32b3e3c47f4ad9a99a8dc1d4ac7842488e"
+    },
+    {
+      "path": "tools/gta/licenses/Rust-1.99.0-MIT.txt",
+      "bytes": 1078,
+      "sha256": "b85dcd3e453d05982552c52b5fc9e0bdd6d23c6f8e844b984a88af32570b0cc0"
+    },
+    {
+      "path": "tools/gta/licenses/Rust-1.99.0-PROVENANCE.txt",
+      "bytes": 2933,
+      "sha256": "d30aa03723cdfbde2a40037c08ac156f1857b8a33224e7bf4ffabcc29e695b13"
+    },
+    {
+      "path": "tools/gta/licenses/Rust-1.99.0-Unicode-3.0.txt",
+      "bytes": 1995,
+      "sha256": "f5062c9a188d81dfe66b56db4182dcf9e4b17c0d9b0d311a8e20b3a1b075c443"
+    },
+    {
+      "path": "tools/gta/licenses/Rust-1.99.0-compiler-builtins-LICENSE.txt",
+      "bytes": 15078,
+      "sha256": "ab6eec6caf0fa5775e411c7a8bc6a45c4ef2956b0980b157ab74fc5cd62a928b"
+    },
+    {
+      "path": "tools/gta/licenses/Rust-1.99.0-libm-LICENSE.txt",
+      "bytes": 14088,
+      "sha256": "3823dda7cf046602f4b4e77ec8e227863dc4736037cc85bb33d9f19febe16bb7"
+    },
+    {
+      "path": "tools/gta/licenses/Ultimate-ASI-Loader-LICENSE.txt",
+      "bytes": 1067,
+      "sha256": "ceca73c504e39084b0b80d2a437aea9988313d1915418d3c629c3e4a8313f5a1"
+    },
+    {
+      "path": "tools/gta/licenses/WindowedMode-LICENSE.txt",
+      "bytes": 1067,
+      "sha256": "609d6cb19a22a8cb928caf0cb8c60d2e4023f8cf6824cbe696a5f118d6a196a0"
+    },
+    {
+      "path": "tools/gta/live_session.py",
+      "bytes": 65875,
+      "sha256": "0edc87eb56eb768d9dee7180912f94ee3cb6b43834524540e4dd9ebb9ac6e844"
+    },
+    {
+      "path": "tools/gta/map_preparation.py",
+      "bytes": 11658,
+      "sha256": "e566b2f4019bbe9bcc127d726b7708fdd1b845dac14e0a512284ca13ffaa87d8"
+    },
+    {
+      "path": "tools/gta/movement_ack.py",
+      "bytes": 6179,
+      "sha256": "92acffc002499b409d2af72f5810de200ac28fce1d5dc011712b8707079435a0"
+    },
+    {
+      "path": "tools/gta/moving_entry.py",
+      "bytes": 6038,
+      "sha256": "59fe2f15b3a412752f62821888d05504a7bab86e6658eae0286ee415a15ce2fa"
+    },
+    {
+      "path": "tools/gta/native/README.md",
+      "bytes": 30627,
+      "sha256": "175d559e8b21bf0b2aca21d2af44233ec0cd684931c6631ed8296d4dd4fa4e7d"
+    },
+    {
+      "path": "tools/gta/native/aim_input_protocol.h",
+      "bytes": 2844,
+      "sha256": "63ed215d9f6d953d52ebc230d67557459461114a4ac10b1e0ac270ba6b828a35"
+    },
+    {
+      "path": "tools/gta/native/aim_input_test.cpp",
+      "bytes": 2296,
+      "sha256": "cd3d12ce41daf39e4d1e93f56cd8bfb970b93123912fc0325e6589210183e3bf"
+    },
+    {
+      "path": "tools/gta/native/aim_target.h",
+      "bytes": 2448,
+      "sha256": "cab700172e14a5c0fae9f72b8d7d7d8d4bf8e028677f4f624fd32cfa6d206173"
+    },
+    {
+      "path": "tools/gta/native/aim_target_test.cpp",
+      "bytes": 2231,
+      "sha256": "85d9f7611229b77047aa79b9dd73bff690f800a31a4e8198ae3c376c14cbc275"
+    },
+    {
+      "path": "tools/gta/native/board_attack.cpp",
+      "bytes": 6882,
+      "sha256": "316c46f04f8e75f2d80a61bb521154ef46fc3dda943e9171eebd62802ec4f01b"
+    },
+    {
+      "path": "tools/gta/native/board_attack.h",
+      "bytes": 316,
+      "sha256": "ba959e927588ab0601856f70215d24bfedc77fd17ddf4afaf72d9f5aeaa17f52"
+    },
+    {
+      "path": "tools/gta/native/board_attack_protocol.h",
+      "bytes": 3116,
+      "sha256": "fdc8fbffe7b9e083075f239b518304160e502238e3fefc36d1083de1bd850096"
+    },
+    {
+      "path": "tools/gta/native/board_attack_test.cpp",
+      "bytes": 3090,
+      "sha256": "10b821c91bcfea97379ebd047035063fcea9e78f3f670428837f56d0d9068371"
+    },
+    {
+      "path": "tools/gta/native/board_bundle.h",
+      "bytes": 5705,
+      "sha256": "9efb0160b8cd5d453070265f06235b2d4208fce730c3844dc325a3f753d83f15"
+    },
+    {
+      "path": "tools/gta/native/board_preview.cpp",
+      "bytes": 8918,
+      "sha256": "0e2efb93adb6e7f80637fcf20df1e114bc21216ac77d2574adfa235cb8e89472"
+    },
+    {
+      "path": "tools/gta/native/board_preview.h",
+      "bytes": 2451,
+      "sha256": "4b822dad8fea74ef3b0b9ac251232a80339bc8549188b259dc71b83f6e7b8b2a"
+    },
+    {
+      "path": "tools/gta/native/board_preview_test.cpp",
+      "bytes": 8849,
+      "sha256": "1cb90a925bdcf1ef1a71d4a0fb0fe938c1eca23771bad26e051b635848272ba0"
+    },
+    {
+      "path": "tools/gta/native/board_scope.h",
+      "bytes": 2040,
+      "sha256": "93a295966d25eea5c67d822851b3aa829a17882a941c907d333b7fb11fe4ac26"
+    },
+    {
+      "path": "tools/gta/native/bridge_protocol.h",
+      "bytes": 5014,
+      "sha256": "3cec272321fe3eced7ca639e4affe33b2082e0c9b1be73c22f2a75fdbf2ccaec"
+    },
+    {
+      "path": "tools/gta/native/build.ps1",
+      "bytes": 9720,
+      "sha256": "76a7ffb8ed6287837575b1bd0d3bbafdbd060db7c9fb6d1dda3075ece417d280"
+    },
+    {
+      "path": "tools/gta/native/camera_preview.cpp",
+      "bytes": 26721,
+      "sha256": "abb49574b746a00e0510d94546d08789741edd718fc32ec69604d5ff142ad799"
+    },
+    {
+      "path": "tools/gta/native/camera_preview.h",
+      "bytes": 1455,
+      "sha256": "9e430f4bd31974b95fd7cccbaaecbddeb12014ef2132fba2ebe0b3450f1fdac3"
+    },
+    {
+      "path": "tools/gta/native/camera_preview_math.h",
+      "bytes": 9855,
+      "sha256": "4bb201e0aa0f3066dcf3a8b5bb8fbedfbc6444b2042c1accba32f390f86672d0"
+    },
+    {
+      "path": "tools/gta/native/camera_preview_protocol.h",
+      "bytes": 5827,
+      "sha256": "7f8c020415f63c20b43828f5fd3a262f9f07ce76b1b94657770f0602793d564a"
+    },
+    {
+      "path": "tools/gta/native/camera_preview_test.cpp",
+      "bytes": 17911,
+      "sha256": "6eeb2f72feabd3040e71cfe9321d5536a5faeebb34c43bcdff8348428eb72168"
+    },
+    {
+      "path": "tools/gta/native/game_effects.cpp",
+      "bytes": 11041,
+      "sha256": "55f1fe8939b1acdc919ff66a0188b3125fc38fcca497af7f1dde9b78bc1dc79d"
+    },
+    {
+      "path": "tools/gta/native/game_effects.h",
+      "bytes": 598,
+      "sha256": "9d978bd6f0f450e85a946c8b5941fa9b04bc4442f9d65d72b1c20c689c3010c7"
+    },
+    {
+      "path": "tools/gta/native/game_effects_ownership.h",
+      "bytes": 2508,
+      "sha256": "374f4a2142ccb492fa430571b8bb0d7b9f45c6482221821abe0180d7efa0cf4a"
+    },
+    {
+      "path": "tools/gta/native/game_effects_policy.h",
+      "bytes": 3388,
+      "sha256": "0dd5f761580f5add805f2bb18de30acfcd1797949bb2844f5bbb38cd4398205b"
+    },
+    {
+      "path": "tools/gta/native/game_effects_protocol.h",
+      "bytes": 3641,
+      "sha256": "71d1eedcddb986f06cf40d3dc85ae790373dee280858e4f110a583ad37b9c9d2"
+    },
+    {
+      "path": "tools/gta/native/game_effects_test.cpp",
+      "bytes": 7648,
+      "sha256": "b0ec9674c1b3f3ed401d1656a9a4d38b97226287ac8365b452294d4ac4bd66c1"
+    },
+    {
+      "path": "tools/gta/native/hud_preview.cpp",
+      "bytes": 10757,
+      "sha256": "9bbcac1df51618a64a739ed0be808d0945e938d172d3f327672905b733e394fa"
+    },
+    {
+      "path": "tools/gta/native/hud_preview.h",
+      "bytes": 536,
+      "sha256": "098e2941232a3a9c6143c1009221f9b39ab04f47904ed580e71b32a53c470420"
+    },
+    {
+      "path": "tools/gta/native/hud_preview_protocol.h",
+      "bytes": 4308,
+      "sha256": "5c6e49c5941a06a3262f2c358187ecd9ef3e906c7ca20b0b53041b81c77ceea4"
+    },
+    {
+      "path": "tools/gta/native/hud_preview_test.cpp",
+      "bytes": 4896,
+      "sha256": "88125823f49aaaa719e9d8863afe911461526c0d384a41200cfd0a42d5e95df9"
+    },
+    {
+      "path": "tools/gta/native/hud_scope.h",
+      "bytes": 791,
+      "sha256": "8711f67ce24f219baece187c48468ad1261d420710d7bfc32e62f4ee2e921893"
+    },
+    {
+      "path": "tools/gta/native/inspect_state.py",
+      "bytes": 9457,
+      "sha256": "370311c8dbb556bd24107f7fd004bc2ddf2f77b7b67a3fc75c84eae3c4d38c51"
+    },
+    {
+      "path": "tools/gta/native/movement_ack.h",
+      "bytes": 2035,
+      "sha256": "d53bc1d2792a4329cba367cf1aacf1fc3ae7c7aff38cd704a5d59d42e534b666"
+    },
+    {
+      "path": "tools/gta/native/movement_air_entry.h",
+      "bytes": 1242,
+      "sha256": "5b4f011363359808136a82437b727f8fdea27f12d7c481330574b83b28763381"
+    },
+    {
+      "path": "tools/gta/native/movement_command_protocol.h",
+      "bytes": 3659,
+      "sha256": "9749c73522ec1ed870734f558a8e835f352a0466310ffe6b54e071d2dbfbf1bd"
+    },
+    {
+      "path": "tools/gta/native/movement_hold.cpp",
+      "bytes": 42779,
+      "sha256": "03cda9ed914d3bdb1f46ba24a3bddfdf30aa9429b3997fd03261924c79bfbb78"
+    },
+    {
+      "path": "tools/gta/native/movement_hold.h",
+      "bytes": 2418,
+      "sha256": "071dbd4dd9d5b776136e9c15412f0783634a172e861e62abb3b2f6057d436d79"
+    },
+    {
+      "path": "tools/gta/native/movement_hold_protocol.h",
+      "bytes": 3529,
+      "sha256": "858f1cecd8e9fbc25f36e0cd3c83a6948da012056c57e8e15b00e8123d8b77e7"
+    },
+    {
+      "path": "tools/gta/native/movement_hold_scope.h",
+      "bytes": 3839,
+      "sha256": "29a8e6f48df2381d3d0adc8d4e2a4cb2497249c200fac4b3e1decfa2bd7f07ce"
+    },
+    {
+      "path": "tools/gta/native/movement_hold_test.cpp",
+      "bytes": 69748,
+      "sha256": "00823c5a82d517f91c27e914d2ac782046510f6cee954f29829c6b6be8be1748"
+    },
+    {
+      "path": "tools/gta/native/movement_ped_state_policy.h",
+      "bytes": 653,
+      "sha256": "a2dce1cc32433367cf6683f5abb6b4f25636eda108b6f0fdb581d1f45611d59b"
+    },
+    {
+      "path": "tools/gta/native/movement_ped_state_policy_test.cpp",
+      "bytes": 1175,
+      "sha256": "85f0626bab7cc82f3ff3b6eee95a179e13788c75d3cb26ecc55aa702e830bd19"
+    },
+    {
+      "path": "tools/gta/native/movement_trajectory_protocol.h",
+      "bytes": 20605,
+      "sha256": "959ab000e826dde5866239cada8a1cb662687069f9a42f17d6259b7bcb7fc2b6"
+    },
+    {
+      "path": "tools/gta/native/pose_preview.cpp",
+      "bytes": 17311,
+      "sha256": "376c254a75e067a0c0644879bfd9454da73426f8ac915c4d2c3a60bd00361673"
+    },
+    {
+      "path": "tools/gta/native/pose_preview.h",
+      "bytes": 1055,
+      "sha256": "8a16bb283431d6c3982b82f5ab644afc64a4fdcd689155113d6dd3e0fb2b2f78"
+    },
+    {
+      "path": "tools/gta/native/pose_preview_math.h",
+      "bytes": 9588,
+      "sha256": "d9fe2c976c726c01430f985c47c9d74a7455d281d09df2c771f39054c76dfd97"
+    },
+    {
+      "path": "tools/gta/native/pose_preview_protocol.h",
+      "bytes": 6829,
+      "sha256": "985efd5c02e587d0dc6dfea104ac0b23bf670fc5c9f83be964fb08a960b54577"
+    },
+    {
+      "path": "tools/gta/native/pose_preview_scope.h",
+      "bytes": 669,
+      "sha256": "e671b3fe48d0e51fbf730adef3c73fe5207ab00f00db13922a7ba66e2668a641"
+    },
+    {
+      "path": "tools/gta/native/pose_preview_test.cpp",
+      "bytes": 29108,
+      "sha256": "c264f131354e2fa2269751385185d6cdf7b7926251e1598b3417a57d97f312bd"
+    },
+    {
+      "path": "tools/gta/native/presentation_time.h",
+      "bytes": 2125,
+      "sha256": "ef017a2a855055b8c0c21983c8d438b625bae1dece227061aaebe6c5d12e32b3"
+    },
+    {
+      "path": "tools/gta/native/presentation_time_test.cpp",
+      "bytes": 10820,
+      "sha256": "e3e4be8c192fc85fe36c3075abae5c55e5638d3fef15d163c1bf0add6007f572"
+    },
+    {
+      "path": "tools/gta/native/protocol_test.cpp",
+      "bytes": 4228,
+      "sha256": "bdb93a660d99807c5ea9e2f122405b04eae0f44a8161a4864f86c24fa8bf5413"
+    },
+    {
+      "path": "tools/gta/native/rw_raster.h",
+      "bytes": 3370,
+      "sha256": "170167ae3a2cb60ebd743b50aac5a3c2fdc3d49874644fa9940e8f46b2bf4321"
+    },
+    {
+      "path": "tools/gta/native/settings_menu.cpp",
+      "bytes": 13668,
+      "sha256": "3177e90965c7159c98aa2b6fb9ced13d25428f54d27816809145459a1e2615ea"
+    },
+    {
+      "path": "tools/gta/native/settings_menu.h",
+      "bytes": 437,
+      "sha256": "f3dde18693d05b5954ad51b4738d662cb2b38876e6d70ad05864fe08fcc504d1"
+    },
+    {
+      "path": "tools/gta/native/settings_menu_input_scope.h",
+      "bytes": 2586,
+      "sha256": "82a08a7d4686d8af9a3c367d6014d91a3dcc022c30aec34714c8b3532ce1877b"
+    },
+    {
+      "path": "tools/gta/native/settings_menu_protocol.h",
+      "bytes": 1811,
+      "sha256": "9bc69e9eefa23d256b9e7310cdee7e76ead00be017ab11dc663c9b3fa505166d"
+    },
+    {
+      "path": "tools/gta/native/settings_menu_test.cpp",
+      "bytes": 4191,
+      "sha256": "b73ae337aeceb78b605bd9a7200bccc42f2127fe0fbc71b57ebd0f7d98981967"
+    },
+    {
+      "path": "tools/gta/native/startup_status.cpp",
+      "bytes": 9825,
+      "sha256": "6220295dcfa0447c2bba2ef92b7ab9c275beaf05531e64733e468c634f0f6d9c"
+    },
+    {
+      "path": "tools/gta/native/startup_status.h",
+      "bytes": 346,
+      "sha256": "beaa7f65f619293b990522416a559e8f33663e0b86702f80aa25c1ae2b90636c"
+    },
+    {
+      "path": "tools/gta/native/startup_status_protocol.h",
+      "bytes": 2480,
+      "sha256": "e694093ca836dc5c1ba3fde2ff31dc4cb419deb66c949b94aca7aa68423e45de"
+    },
+    {
+      "path": "tools/gta/native/startup_status_test.cpp",
+      "bytes": 3365,
+      "sha256": "56758e7402f1a80792bb4bd9d09d77d7936a09600ed744ce523240a161f5fbc1"
+    },
+    {
+      "path": "tools/gta/native/test_inspect_state.py",
+      "bytes": 4126,
+      "sha256": "1b968533d12e81d53d14a110f9f729056cf310766c26bb9bb5dcd26734fb22c8"
+    },
+    {
+      "path": "tools/gta/native/thaw_gta.cpp",
+      "bytes": 41206,
+      "sha256": "2a7208ae4bae593d708c841ba4aa11a18b6831a8d6fc6e97c7466260e514ad80"
+    },
+    {
+      "path": "tools/gta/native/thaw_gta.def",
+      "bytes": 26,
+      "sha256": "0012918f660f6c49a3b3f9f9fdf857411ad7d01dbc08312d385bf23edfda89c9"
+    },
+    {
+      "path": "tools/gta/native/vehicle_snapshot.cpp",
+      "bytes": 12967,
+      "sha256": "1c2042524b22bde349bd9986aafce9107a9b10c6e2c9dd5253a173ff9ac7e386"
+    },
+    {
+      "path": "tools/gta/native/vehicle_snapshot.h",
+      "bytes": 394,
+      "sha256": "8200a32a5b71e6b43349ce9eb43d2fcc88208ceea3718dc2fea8522562dce751"
+    },
+    {
+      "path": "tools/gta/native/vehicle_snapshot_protocol.h",
+      "bytes": 7991,
+      "sha256": "260cde203c7252109941be10d9721e36fef9dfabbed90313d692cf333a8576c6"
+    },
+    {
+      "path": "tools/gta/native/vehicle_snapshot_test.cpp",
+      "bytes": 4635,
+      "sha256": "d31c5a2b6e5840e6c38f9f852d77d09701a47cf9ce3a1ed44bf691de920fec7c"
+    },
+    {
+      "path": "tools/gta/native/weapon_aim_math.h",
+      "bytes": 2766,
+      "sha256": "873f8246082b711a270b73b71fad6ce06a86e667d4c5cf94270554ebb10b3c3c"
+    },
+    {
+      "path": "tools/gta/native/weapon_control.cpp",
+      "bytes": 16184,
+      "sha256": "47b7b795a18ef76d2c7d4c657e0951bc13fcf2395d8e736299a4cc9ee89ef3a2"
+    },
+    {
+      "path": "tools/gta/native/weapon_control.h",
+      "bytes": 1229,
+      "sha256": "3a916e27d18e6b06b99045d167ef812d9970f802152f847399014991cc0c823d"
+    },
+    {
+      "path": "tools/gta/native/weapon_control_policy.h",
+      "bytes": 3240,
+      "sha256": "3affda992d4d306857d2094fb4ec468844e9b705e1ac304521e1b69888658694"
+    },
+    {
+      "path": "tools/gta/native/weapon_control_scope.h",
+      "bytes": 1807,
+      "sha256": "43eb743e59263ed5d10dcf971892fb4114a01ce6b2b6b67f2b6bb443205b71c8"
+    },
+    {
+      "path": "tools/gta/native/weapon_control_test.cpp",
+      "bytes": 6599,
+      "sha256": "c0502b29646a47e15b845850bfaa3c8be001ef2d46d3a1c2da698a1854260283"
+    },
+    {
+      "path": "tools/gta/native/weapon_presentation.cpp",
+      "bytes": 10178,
+      "sha256": "e3e3b40941bcc25989915f2d3a2f91dd2c3213c00a857c69737b8681b237c7ee"
+    },
+    {
+      "path": "tools/gta/native/weapon_presentation.h",
+      "bytes": 957,
+      "sha256": "7ea1a6ffb3e83146b426f9ee8c4db7ac352024550277b440a4500a7efafe3b7f"
+    },
+    {
+      "path": "tools/gta/native/weapon_presentation_math.h",
+      "bytes": 15865,
+      "sha256": "63d6df54f9509125445e9e58ced9c5820bcfd2a7083d538d445a9d9169f8bd55"
+    },
+    {
+      "path": "tools/gta/native/weapon_presentation_scope.h",
+      "bytes": 555,
+      "sha256": "20d811048d2f8859fd5ce66e468965ea252065ea9be5a0c1c8f17d4eaf24caee"
+    },
+    {
+      "path": "tools/gta/native/weapon_presentation_test.cpp",
+      "bytes": 12926,
+      "sha256": "a2045d4b40ceda42aea2885f25d8e40f6df67cd1510fb0b09b867d64cefa6ac4"
+    },
+    {
+      "path": "tools/gta/package.py",
+      "bytes": 7937,
+      "sha256": "128ffea9d9a72ab6cff515fac2061c3d0a75032cc0c11419d8f7347e63778292"
+    },
+    {
+      "path": "tools/gta/pickle_timings.py",
+      "bytes": 2659,
+      "sha256": "1eb3e1f524a47e271daa623bfd04631640c92ae3f90a265d421961e428857939"
+    },
+    {
+      "path": "tools/gta/playtest.py",
+      "bytes": 8491,
+      "sha256": "80d6d19c99408d1df3364f4ab01a602ee14dcabe0656d64142f4eb16b4ffc149"
+    },
+    {
+      "path": "tools/gta/portable_python.py",
+      "bytes": 10061,
+      "sha256": "379dbc25776d92d5136cfa6522a87bbc35b2b8aaa98f977f7d5bfb686c323a8c"
+    },
+    {
+      "path": "tools/gta/preview_gameplay_move.py",
+      "bytes": 14603,
+      "sha256": "0c885923d8461b5a58428d5c0180d54b93b5904d5bf6a51b153e0c2402ad3085"
+    },
+    {
+      "path": "tools/gta/preview_hold.py",
+      "bytes": 2836,
+      "sha256": "1d91839a23abc2cac2b13511cae9ba66f87cdf9005eeaf93b7f8121153e3ade7"
+    },
+    {
+      "path": "tools/gta/preview_move.py",
+      "bytes": 4052,
+      "sha256": "7c00f32119c5b6ced190f82139b57dcc60f7be5753d1208a0647cfd037fb10c3"
+    },
+    {
+      "path": "tools/gta/preview_pose.py",
+      "bytes": 18137,
+      "sha256": "9f58d15ea75d37861d60ba2d7606fdfd5a381e853f31fbb7f39da9c799fc769e"
+    },
+    {
+      "path": "tools/gta/probe_world.py",
+      "bytes": 13659,
+      "sha256": "b0abff20c7bc5393e64ebd78f4659b52af364ab87b20c19aae5654ce939eb10f"
+    },
+    {
+      "path": "tools/gta/rail_export.py",
+      "bytes": 11781,
+      "sha256": "0c4e101c69f4b6566513c87ec1e0133c52d99b1c92ad6ca12579340d65504924"
+    },
+    {
+      "path": "tools/gta/rails.py",
+      "bytes": 29467,
+      "sha256": "478bd3bed26746785cd256110e98eb7dcf51285ff55d6a94f788e21581eddf3b"
+    },
+    {
+      "path": "tools/gta/release_version.py",
+      "bytes": 100,
+      "sha256": "276e70ceb4e5b7b776edcbe1a5fbacad873fe50c89013749d8d0874ebc8cd604"
+    },
+    {
+      "path": "tools/gta/retarget_pose.py",
+      "bytes": 27995,
+      "sha256": "bf3b1a86f6696baa99a18c26b9922d8233945da94a2e4da5fbd26180759adf15"
+    },
+    {
+      "path": "tools/gta/runtime_host/Cargo.lock",
+      "bytes": 160,
+      "sha256": "2194f2241502c87ed4473436a7baf803afd27f2b0aae1447358acb98c231824d"
+    },
+    {
+      "path": "tools/gta/runtime_host/Cargo.toml",
+      "bytes": 164,
+      "sha256": "21f89db355168e64d1edd758d34c7e16502cd734c9125e032b691334ef496111"
+    },
+    {
+      "path": "tools/gta/runtime_host/README.md",
+      "bytes": 2678,
+      "sha256": "753cc5793aa4b2e34732d5d9a3e31731e0b8d86cd5819c62e4dd17dcc51ee7ea"
+    },
+    {
+      "path": "tools/gta/runtime_host/build.ps1",
+      "bytes": 4867,
+      "sha256": "d6c1816380d2450d7c5afca129161c563c119e5b4a946457a8fe3de87422ce81"
+    },
+    {
+      "path": "tools/gta/runtime_host/build.rs",
+      "bytes": 1006,
+      "sha256": "05cd7ab959290716bd3f7c6264f7fa0f9af4102f1067472b191470cd8c52b1c8"
+    },
+    {
+      "path": "tools/gta/runtime_host/src/file_events.rs",
+      "bytes": 7546,
+      "sha256": "0afeab2c39b8ed1de8a9239c24b95e376040f9f18a6c034b4de6aff6ab75f2c0"
+    },
+    {
+      "path": "tools/gta/runtime_host/src/image.rs",
+      "bytes": 14159,
+      "sha256": "e34cca78ef13b9f72628126fc954411bf4991103f3e5fe195a61044f3b7bfc65"
+    },
+    {
+      "path": "tools/gta/runtime_host/src/main.rs",
+      "bytes": 5400,
+      "sha256": "096ce887a6b74914bc46c036bca7a4e64127125b7d4193418978eaae1023f7f6"
+    },
+    {
+      "path": "tools/gta/runtime_host/tls.c",
+      "bytes": 489,
+      "sha256": "b3c10233f327d91a42655823afd106a7f32920cd1c422e9a3a996a9f6ad728b1"
+    },
+    {
+      "path": "tools/gta/scene_export.py",
+      "bytes": 20014,
+      "sha256": "0767018d90ebd192febda2fe52b8dfa9ffafc74c4485d73b5f2b7654e4ffc929"
+    },
+    {
+      "path": "tools/gta/settings_menu.py",
+      "bytes": 21967,
+      "sha256": "e6dadbe24830a2f8f7f4f961bb5c1c2930d7a9fb208cce8fdd8ef5c73c0617d1"
+    },
+    {
+      "path": "tools/gta/setup_sources.py",
+      "bytes": 5283,
+      "sha256": "92c3e7c0e8a8d07e712af1e84157d853392fea2dce71a4d30a76873122f1850b"
+    },
+    {
+      "path": "tools/gta/slow_motion_input.py",
+      "bytes": 2934,
+      "sha256": "18e919831251a11bb4e6f9646a687c99cfc7efa52cdbd5bb34e25467921f4b2e"
+    },
+    {
+      "path": "tools/gta/source_adjustment.py",
+      "bytes": 4637,
+      "sha256": "5eb4baa3347fdbb16169784631756a009e0821ace6710002948c03712f6143d0"
+    },
+    {
+      "path": "tools/gta/startup_status.py",
+      "bytes": 1462,
+      "sha256": "60dcb58a6e87178530655bdc6f9b4e02f2cf7de26fb5342c53de221bf31dabfa"
+    },
+    {
+      "path": "tools/gta/streamed_scene.py",
+      "bytes": 16390,
+      "sha256": "99874803fd617e38e2b609c0d5e58bf85113df01f44602d18090aadd18c9c69a"
+    },
+    {
+      "path": "tools/gta/surface_flags.py",
+      "bytes": 4827,
+      "sha256": "b450b2b148dced0bbcf7680c5b9286cdbb6a8a376e77f947eaad3f9b0eb1b1c7"
+    },
+    {
+      "path": "tools/gta/terrain_mapping.py",
+      "bytes": 5072,
+      "sha256": "e50261bf3f46d9546f5ef09959b38c49672871df33aefb909a566c68ab39a3a9"
+    },
+    {
+      "path": "tools/gta/test_active_upkeep.py",
+      "bytes": 3887,
+      "sha256": "a0d3d5848b0b04bfdf4fdc8abdff5c58655757abc791908d75f400897301997f"
+    },
+    {
+      "path": "tools/gta/test_aim_input.py",
+      "bytes": 5158,
+      "sha256": "21ef76b24be4d9c2c5087080b3bf07bbe713fd9aff94e61eb1ead33890ab35c6"
+    },
+    {
+      "path": "tools/gta/test_atomic_store.py",
+      "bytes": 3303,
+      "sha256": "ca30fe1cd9fd9c9f2374c2106b5aa5c7ac0ace08111b8789891554a2f47b7175"
+    },
+    {
+      "path": "tools/gta/test_attack.py",
+      "bytes": 2591,
+      "sha256": "deb9bd25a03c645d90891cdf8192b2ec18f8b3f57144a9be14a379648005e114"
+    },
+    {
+      "path": "tools/gta/test_audio_focus.py",
+      "bytes": 4048,
+      "sha256": "5324ad2a00da2c23c4b96a51c16876756abafc15894f53c92adfd60b7eee5207"
+    },
+    {
+      "path": "tools/gta/test_audio_mix.py",
+      "bytes": 4834,
+      "sha256": "17b042edddbf3c9a608ba67c7f6a1f8a6d7ae43d019052a32ae9f989ada27740"
+    },
+    {
+      "path": "tools/gta/test_audio_session.py",
+      "bytes": 4825,
+      "sha256": "ac8a85f57a5924357debf19685b7917f68afa1508d1fed9562bfb0e2c263b534"
+    },
+    {
+      "path": "tools/gta/test_board_preview.py",
+      "bytes": 3824,
+      "sha256": "908884b37925c2fac409788b6840d8dd866bfdbed359020a95e2e475924ecf02"
+    },
+    {
+      "path": "tools/gta/test_camera_preview.py",
+      "bytes": 4427,
+      "sha256": "3db184c876ac47b2540b3ec655c1214bcace5919975e237e28952a2e2a618713"
+    },
+    {
+      "path": "tools/gta/test_compiler_job.py",
+      "bytes": 3574,
+      "sha256": "0b466201d3a7e28d35672ca811fd32a0aab047141aa18874e96d6d3d43fa0241"
+    },
+    {
+      "path": "tools/gta/test_compiler_payload.py",
+      "bytes": 2941,
+      "sha256": "15e4f162a4c35faf6418095fd7b6cab534aaef6b524e8e64aeb7f2e5b3e43cf8"
+    },
+    {
+      "path": "tools/gta/test_file_hash_cache.py",
+      "bytes": 7055,
+      "sha256": "4e952810d72300c557729bbff081b07776a48ff95a4e50061b6b81b670ea1ad7"
+    },
+    {
+      "path": "tools/gta/test_frame_timings.py",
+      "bytes": 6261,
+      "sha256": "5991d2332e15cc5ce171e7fc70d16ef55b2591230086160b0b3663caabca7257"
+    },
+    {
+      "path": "tools/gta/test_game_effects.py",
+      "bytes": 4292,
+      "sha256": "2e78e028a9c00a6e11f96fb1bd3705c12cfb22dde265281d5e7c57dba2467e38"
+    },
+    {
+      "path": "tools/gta/test_gameplay_pose.py",
+      "bytes": 17297,
+      "sha256": "33c775c56d8bab03511573227a6ccc07b21455ff2c7e8b2ec229bd336417497d"
+    },
+    {
+      "path": "tools/gta/test_geometry.py",
+      "bytes": 11040,
+      "sha256": "b671f862b96e2fd4480d3061e4e8c129ac616db74eb65182f917492a78c32d85"
+    },
+    {
+      "path": "tools/gta/test_global_rails.py",
+      "bytes": 16395,
+      "sha256": "01542425f15c069c27207073f76ba87b240d933112baaa2744cb3219d4038663"
+    },
+    {
+      "path": "tools/gta/test_hud_assets.py",
+      "bytes": 4934,
+      "sha256": "0dcf01f74e33303b335eb3e1fd6d07d691f514f02d93dd65a0438215808bc791"
+    },
+    {
+      "path": "tools/gta/test_hud_preview.py",
+      "bytes": 4571,
+      "sha256": "1c46dd2c57e4be7ad9702fc8451c594a15f76fbad2763b67fe193d57d5f60315"
+    },
+    {
+      "path": "tools/gta/test_hud_quads.py",
+      "bytes": 3111,
+      "sha256": "621b378500f935a7e3bf369f66cebf65eca6fbb4a0d7849b2166d360b9697a35"
+    },
+    {
+      "path": "tools/gta/test_inspect_ipls.py",
+      "bytes": 9066,
+      "sha256": "3426583acff73ae6de9fc29d7636f3dde4606483fd51f99da65c9a75a18c4917"
+    },
+    {
+      "path": "tools/gta/test_inspect_rig.py",
+      "bytes": 7484,
+      "sha256": "af94795b7aaa0cbcf26832f10f87913d99a2bec0bef1c70aeaad94dd3fef10fa"
+    },
+    {
+      "path": "tools/gta/test_install.py",
+      "bytes": 13604,
+      "sha256": "2e889a53988376025ab4a90feb1d2b3c764a252936cb71cf67575577f16658fc"
+    },
+    {
+      "path": "tools/gta/test_keyboard_input.py",
+      "bytes": 4371,
+      "sha256": "51600f3de92f5352f75b5cbca3b8044c6622014392eb2cd9944d3bf71006b4b1"
+    },
+    {
+      "path": "tools/gta/test_launch_playtest.py",
+      "bytes": 10759,
+      "sha256": "e62a8f9682537994c0c40391ff602571115bd89b9aa069a13ec53f4f1166c663"
+    },
+    {
+      "path": "tools/gta/test_launcher.py",
+      "bytes": 9953,
+      "sha256": "e3251c0e61a4da97e0ce9ed0ffba93138e7db1dbaa26efa4ca74367783f31881"
+    },
+    {
+      "path": "tools/gta/test_live_collision.py",
+      "bytes": 6613,
+      "sha256": "235b0a6f286ca88426883623223719c684c837fa9ca7b54cb8c8ba5d8262c04c"
+    },
+    {
+      "path": "tools/gta/test_live_f7.py",
+      "bytes": 43098,
+      "sha256": "7d8e8d0a2f0c869ace7c67ac4d9c54e25f89aa1cb0a0160b799d3e1e73613d89"
+    },
+    {
+      "path": "tools/gta/test_live_schedule.py",
+      "bytes": 2055,
+      "sha256": "4fb18956ebe045b8a01bd72c134e0cffbddc74f672303dcacad27a1a9ebc1b06"
+    },
+    {
+      "path": "tools/gta/test_map_preparation.py",
+      "bytes": 11127,
+      "sha256": "324ca51098d0ffa451c556582797a1a22041f3f064ab05fd2f6bdc413928c19b"
+    },
+    {
+      "path": "tools/gta/test_movement_ack.py",
+      "bytes": 6470,
+      "sha256": "74531dcb0815d9be8800187a735c8861a8378087eecbb161f8cf61926a10d5ea"
+    },
+    {
+      "path": "tools/gta/test_moving_entry.py",
+      "bytes": 13761,
+      "sha256": "6a69ed420ed4d5f14dbcb13238f72425497c4f1c4ab50630e6d9c4ffa1506d30"
+    },
+    {
+      "path": "tools/gta/test_package.py",
+      "bytes": 16467,
+      "sha256": "897af161d6437c5c84af0193b06ebf25bfa5cd0cd1dcd2785932ea3f5c4aae17"
+    },
+    {
+      "path": "tools/gta/test_pickle_timings.py",
+      "bytes": 4171,
+      "sha256": "a13d849c430d50f26bc69cdbc7e137215ba4739e43d48128038aba1d6305e956"
+    },
+    {
+      "path": "tools/gta/test_playtest.py",
+      "bytes": 11177,
+      "sha256": "9cf8e738c8262a8872c6e7e0ac22c138340b5bad954734cab78141b2b669339d"
+    },
+    {
+      "path": "tools/gta/test_portable_python.py",
+      "bytes": 7514,
+      "sha256": "c7bd26c016d967aafcfeaeb1925cc022b6969c55e67526a5e77ffd37bfafe68b"
+    },
+    {
+      "path": "tools/gta/test_preview_gameplay_move.py",
+      "bytes": 24525,
+      "sha256": "63dc4cf00bc1a8027eec720e1b617fbe00ba44bd30eb973302c32ce1fed316dd"
+    },
+    {
+      "path": "tools/gta/test_preview_hold.py",
+      "bytes": 2442,
+      "sha256": "e51f149414529217b21308a6bb4756e7b4dcc4c3117d65d5eb459dfccda98291"
+    },
+    {
+      "path": "tools/gta/test_preview_move.py",
+      "bytes": 3577,
+      "sha256": "2034f02a439c71fdbd265f2c30c65a17b8d1eaa218e05baa5119d85f93c55069"
+    },
+    {
+      "path": "tools/gta/test_preview_pose.py",
+      "bytes": 17879,
+      "sha256": "205bafe72cc7bddd85937de6c0e0ea563394a15fa5082181e433112eef56f723"
+    },
+    {
+      "path": "tools/gta/test_probe_world.py",
+      "bytes": 11168,
+      "sha256": "7fbc0e7b3da64346f42194e475550d95c61fee66a5e4ce6b6d8569995a389de1"
+    },
+    {
+      "path": "tools/gta/test_rail_export.py",
+      "bytes": 7423,
+      "sha256": "be6d68547d22e0bf68217e7f401a1c309571a6e4202ea55d573ca28fe2c1463f"
+    },
+    {
+      "path": "tools/gta/test_rails.py",
+      "bytes": 11719,
+      "sha256": "65707aa3833b2b5bf5f079e4f98df732377165ba6cb4f58a34d8107733f5662e"
+    },
+    {
+      "path": "tools/gta/test_retarget_pose.py",
+      "bytes": 22742,
+      "sha256": "21118a5a73b2d41f72084cf00c002573054a4df40cb963ff016aa0eca2529b86"
+    },
+    {
+      "path": "tools/gta/test_scene_export.py",
+      "bytes": 19847,
+      "sha256": "a29aa40aff9173ebadc708ed1ebf4bfa41d48f67d120a700cd167fe70b5540b7"
+    },
+    {
+      "path": "tools/gta/test_settings_menu.py",
+      "bytes": 9952,
+      "sha256": "bf8e88187a26644541073268cc88b654a4344c70bf408af28b95c7510153d072"
+    },
+    {
+      "path": "tools/gta/test_setup_sources.py",
+      "bytes": 2625,
+      "sha256": "807e815283c88c41958bfb5fe10909003cb6e7399252c1a6ca7fa6e31e72f39f"
+    },
+    {
+      "path": "tools/gta/test_slow_motion_input.py",
+      "bytes": 5447,
+      "sha256": "77e43c6d7ed4f20a32f68ae7c025b61d8650055582f21c22423ca9d0a054c6d8"
+    },
+    {
+      "path": "tools/gta/test_snapshot_reads.py",
+      "bytes": 8027,
+      "sha256": "e3c05da26d8ba13b32730ed8bca4c8c6b1149689d78a06f0a8912ded86eb24f8"
+    },
+    {
+      "path": "tools/gta/test_source_adjustment.py",
+      "bytes": 8988,
+      "sha256": "4f2d2feced23d7b543fa45bc9e15d3a85aaa6aba6e2ebbfcc91fbbf4f4f8b56d"
+    },
+    {
+      "path": "tools/gta/test_startup_status.py",
+      "bytes": 2757,
+      "sha256": "122525483b1b0ce0ceda25dbc8295f9bee499cebcc9346c369b157804423dcc3"
+    },
+    {
+      "path": "tools/gta/test_streamed_scene.py",
+      "bytes": 38898,
+      "sha256": "25c7825f1767b4448138409bc38a881b9a0e049b3e9f9bf00e74af129020c2b8"
+    },
+    {
+      "path": "tools/gta/test_terrain_mapping.py",
+      "bytes": 10283,
+      "sha256": "d9e2c819e41df741abc65faeef9aca298d6fd798e61bdf9ed08cea6be585e09e"
+    },
+    {
+      "path": "tools/gta/test_vehicle_col.py",
+      "bytes": 5420,
+      "sha256": "8962b71d6bdf2c3dcca64d0210261179108b55609fe50010e20a084635c6dd3b"
+    },
+    {
+      "path": "tools/gta/test_vehicle_input.py",
+      "bytes": 24973,
+      "sha256": "e282f99b8354da378954f2a03c1ad930c670dba48048bd3b208d72311a7059b6"
+    },
+    {
+      "path": "tools/gta/test_vehicle_runtime.py",
+      "bytes": 19712,
+      "sha256": "55a84884a3bac64cff48401a4e0b3cd175ba5e49318a62abd84dea565f9d2e2a"
+    },
+    {
+      "path": "tools/gta/test_walking_aim.py",
+      "bytes": 2799,
+      "sha256": "d405f2c5efedf6fbd63bc0eb4b83c3cad8b0f1d06f40292f9c39b7fec4c6352e"
+    },
+    {
+      "path": "tools/gta/test_world_stream.py",
+      "bytes": 22088,
+      "sha256": "7714a5fe5d8ab9e99676c596ccbc82c644c192e86adf90a1dcf8ed0309bd200c"
+    },
+    {
+      "path": "tools/gta/test_world_tile_cache.py",
+      "bytes": 12860,
+      "sha256": "db24c85a6c5de98781044e6ec2cd3a08cd7486a0c8763022443e17fc2d6ee315"
+    },
+    {
+      "path": "tools/gta/transport_native/atomic_store.cpp",
+      "bytes": 429,
+      "sha256": "1bb0645e3abd9cb880e50f4610ab097c1fa50a369c918fad2f2da443ed8c39ee"
+    },
+    {
+      "path": "tools/gta/transport_native/atomic_store_test.cpp",
+      "bytes": 3079,
+      "sha256": "8e1c8fd8735aa40beb75c8f8b7dc86ed4e84b861c36f883f7fa318f1ad1d060d"
+    },
+    {
+      "path": "tools/gta/transport_native/build.ps1",
+      "bytes": 2864,
+      "sha256": "d9d52cd07ccf56351fb6b532e4550cf848badbae2bad06ad62d5881a637cd99f"
+    },
+    {
+      "path": "tools/gta/vehicle_col.py",
+      "bytes": 6619,
+      "sha256": "72b13588fa67cf552a5656cbc836398b91db26e44f9fd4d8e72fcbc75a5fc50c"
+    },
+    {
+      "path": "tools/gta/vehicle_input.py",
+      "bytes": 23113,
+      "sha256": "d8f2ce713720d182286d00a78cef87dc5d28a35d0fe3a5c343494d652e10b94f"
+    },
+    {
+      "path": "tools/gta/vehicle_runtime.py",
+      "bytes": 12588,
+      "sha256": "ca75766d71f66eb7271c757e0b45a02ef2c5c6b75ad03a4e451068be3cd70a0d"
+    },
+    {
+      "path": "tools/gta/walking_aim.py",
+      "bytes": 1685,
+      "sha256": "ff5a9d16dc4358cdca13c84795b0491fa3b9d9fa4325d5f55a620e2beefa0af3"
+    },
+    {
+      "path": "tools/gta/world_stream.py",
+      "bytes": 25099,
+      "sha256": "cb50cc3dc4cd8643db2e0f21d5ba55826aab4b37798cf571229fb1df9b33605e"
+    },
+    {
+      "path": "tools/gta/world_tile_cache.py",
+      "bytes": 8219,
+      "sha256": "0c437a4ffe1e79973d7b907c7faad790cf25ef8784c7a99587c12fa211c71209"
+    },
+    {
+      "path": "tools/vanilla_thaw/README.md",
+      "bytes": 15689,
+      "sha256": "08a16a390dc9dc2311d39fd203e53a8f69eabca0e21c2746e2d78f222d8e8fa7"
+    },
+    {
+      "path": "tools/vanilla_thaw/component_bootstrap.json",
+      "bytes": 65508,
+      "sha256": "c9ea0b674b224ea4e3cb9ea5fd8ac4ab2463d40aba4e10a2b900143c6c554515"
+    },
+    {
+      "path": "tools/vanilla_thaw/game_context_bootstrap.json",
+      "bytes": 5787,
+      "sha256": "51d8854734632455c46d664803338b052338b508ec7b549f2835e713177ad2e1"
+    },
+    {
+      "path": "tools/vanilla_thaw/gameplay_frames.json",
+      "bytes": 2384,
+      "sha256": "8c145122dd16bbd418e5d4874ccdcbb1e52f351335e6e8e7114ad6e32e32a41c"
+    },
+    {
+      "path": "tools/vanilla_thaw/hud_state.py",
+      "bytes": 11100,
+      "sha256": "7a8e7257aa520fdaae2df5aa9cac6280d11f4438e83922f524b3eca5413b11fa"
+    },
+    {
+      "path": "tools/vanilla_thaw/import_assets.py",
+      "bytes": 5786,
+      "sha256": "3e4df292675c00271da2640ff62ee33e1228f4d415cf6193f436536a28877beb"
+    },
+    {
+      "path": "tools/vanilla_thaw/import_profile.py",
+      "bytes": 4917,
+      "sha256": "f1045c02942be2737aa731d93dbf7237268ede6fb381aea78b9f6358816d7f13"
+    },
+    {
+      "path": "tools/vanilla_thaw/import_qb.py",
+      "bytes": 12220,
+      "sha256": "b3910ddc56f91a0fa8151e891a50041369e8a55a6ea4ad1524cacdd1abb5b440"
+    },
+    {
+      "path": "tools/vanilla_thaw/import_resources.py",
+      "bytes": 9000,
+      "sha256": "8adf354fae2e22155f631f1fae2f5e9f8194093b7f6d8b28c6fc73d9c4fbd9d2"
+    },
+    {
+      "path": "tools/vanilla_thaw/input_mapping.py",
+      "bytes": 6397,
+      "sha256": "e0d8278d5dd11417e51291c63a7c84a55b18f5bd99e67c12a5e7b5dcf9a718cf"
+    },
+    {
+      "path": "tools/vanilla_thaw/motion_contact.py",
+      "bytes": 1816,
+      "sha256": "b1492096243128e43a8edc15309e0f2e0d7f68d14eb8d81d574101e6b1a810cf"
+    },
+    {
+      "path": "tools/vanilla_thaw/native_worker.py",
+      "bytes": 26278,
+      "sha256": "e1d03b87c9b68be7787d257042aa56767fa777991161ad407cda9e18cb43a3dd"
+    },
+    {
+      "path": "tools/vanilla_thaw/perfect_balance.py",
+      "bytes": 4162,
+      "sha256": "6ae076e35adef870e909b0cbb734c1c8d18eb6019107422dc7ef3d773c95cc2d"
+    },
+    {
+      "path": "tools/vanilla_thaw/prepare_image.py",
+      "bytes": 3632,
+      "sha256": "e4d65292570b3d081c00e56a2b6155662f2200e065a8fb109a8c52e21cd8e6b1"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_air_correction.py",
+      "bytes": 20157,
+      "sha256": "e15e1a2e61fb164c4ae53f40178391f6cf6e0d4ce9ca20378a21488fd7af783e"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_animation.py",
+      "bytes": 11736,
+      "sha256": "aa1a7b0685c0680429fea0ac00c634852713cca954131b144334ea4ad8526e64"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_animation_banks.py",
+      "bytes": 16612,
+      "sha256": "90803de8cc11b3a42bd41fa5930df8a9906450d3c46d579c327be6ce2adf3a87"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_audio.py",
+      "bytes": 6815,
+      "sha256": "ca1d60bfa78b648446e6071a4f18907b246353c3153105e75a838686765b53b6"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_audio_bank.py",
+      "bytes": 22203,
+      "sha256": "27c08ef160f0c64ffff142b8749060a69182ece730ec1a3347468f5efe1d88ab"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_audio_frame.py",
+      "bytes": 18558,
+      "sha256": "2aea19b08c19712d37820931b332cd0e4dd66d6bb1c28e06fcc6648088936036"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_audio_mix.py",
+      "bytes": 9521,
+      "sha256": "7b9022a38aafb9d2c75d7f28d634083b8e518b662bb044d642ffc185324e66ac"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_body_correction.py",
+      "bytes": 11199,
+      "sha256": "e71ea27e48808072b9f6e48b35841f74dacdc0653d6d81f4f8c646507922d3b2"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_camera.py",
+      "bytes": 5268,
+      "sha256": "34871445c9a5314d1d5056e1ee0da8cc5d229c80f2f34147ad72aad58a5e14aa"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_camera_projection.py",
+      "bytes": 9153,
+      "sha256": "667da6786150d2138e87cd1b7d7633447fd81391fc9a252bcec8e63f69e56cba"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_camera_recenter.py",
+      "bytes": 6845,
+      "sha256": "8de039bba69f7cebbc43476ed9c4781896f7ec35805719fb63865d0d59d7c50c"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_career.py",
+      "bytes": 11732,
+      "sha256": "66afd9d01d87300746262f3ea01755eb8bacedb4b355bdb73aac560c8abaffe8"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_components.py",
+      "bytes": 9743,
+      "sha256": "22599d9f564609a416ba3db05648f3f165c86566df475a8f7056cf8dc9889772"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_core.py",
+      "bytes": 7719,
+      "sha256": "43f6f5c46664d6a8d8f0349775759817954a488c32a132f1e102ab79edef68f8"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_fonts.py",
+      "bytes": 17173,
+      "sha256": "ab8ab279f1093d791d3f867b93d5b28586e8d31d1be4b7c8be38eaa76e3d2e95"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_frame_clock.py",
+      "bytes": 10475,
+      "sha256": "f23baf4917f812025b9c3e8244e1f0419fa0615caaa3a931ef4aea5a931424b7"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_frame_device.py",
+      "bytes": 10450,
+      "sha256": "b62e6e779f2bf124d91ff9c80676e46b4652bd11e4bbbc8deb00d13edefb18d2"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_frame_input.py",
+      "bytes": 12677,
+      "sha256": "092eaa843f209baee10cb01ae91f6b4758fdede405a0e360b2e61cd84f2e411d"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_frames.py",
+      "bytes": 20724,
+      "sha256": "ca9a9b095c2f5dd00fc3d6688cfc1d7395bab867e181489dcb8eabcc3c32c5e5"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_frontend.py",
+      "bytes": 6249,
+      "sha256": "5f3363f531d2ab5a9d16670306af0693115122cd83c0bf00db8ad9bf8210a1d1"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_frontend_base.py",
+      "bytes": 10065,
+      "sha256": "2a95a68fc408656cc3c7f3f7e759f33cd6f86f35a09a0117cc1856b3777700c0"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_game.py",
+      "bytes": 14756,
+      "sha256": "a2f70832be261099e013d7506ade9dfbcdb0768ee4ce6d5d8131252569a7c44e"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_gameplay_options.py",
+      "bytes": 18382,
+      "sha256": "a65c2ceaee665186e3421ffe2bbc50df509ae2db2b3c7f16aa22d8367f405424"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_global_assets.py",
+      "bytes": 16047,
+      "sha256": "198f92bc0826be8470096c7a3cea1f3c3c5796020fa2f662e355a776ef0532a5"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_ground_trace.py",
+      "bytes": 11099,
+      "sha256": "f69961f4be822aa2945b3763eea990f637f6a1f5f24bcd23fac99fee05bc2455"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_gta_rails.py",
+      "bytes": 29417,
+      "sha256": "9110011c56e9e78d9123ce8ec55640b149243416a99478d94ca003e7d3856a67"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_gta_scene.py",
+      "bytes": 22657,
+      "sha256": "77f47da5003e4eed74030ecbbf6c6cd1a6c95d8bdc049f37b6b378d0eb352e60"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_handoff.py",
+      "bytes": 16646,
+      "sha256": "349cdd193e6d535f865d35ea478854d433a75d30a42716e5a065d750430158e7"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_hud.py",
+      "bytes": 8714,
+      "sha256": "43b84950eea45e6fe7d3d9e5fb569cb607432893a1b0dad62dd0e36f1ee0ad4c"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_hud_layout.py",
+      "bytes": 16171,
+      "sha256": "4b24e86a9216ed8d438df3f1638fea3023f5df20278f8dc9a4dc00d111da1cea"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_level_registry.py",
+      "bytes": 2672,
+      "sha256": "5c190896008747ce72f3d7deb7e2108f07de216fc5684362b190a82386a8d82c"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_lighting.py",
+      "bytes": 10508,
+      "sha256": "1c26e6570f05b8c9647a25caca14ba6f42f0b52b37d79377505a7e00d4839f91"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_loader.py",
+      "bytes": 63496,
+      "sha256": "ce8416110069a4a7504503d2a48c8bc16f3f11d6993fb741b86526d6ac7c59f4"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_local_player.py",
+      "bytes": 13098,
+      "sha256": "75cac96b3c91035f5a5682f6033422d10beccb25690f818d35f00133cc5d9cec"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_log.py",
+      "bytes": 2151,
+      "sha256": "353cef2dd70203f1716df6f339bc87d84eed182ef279ac88519da3d56511be9e"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_model_frame.py",
+      "bytes": 10092,
+      "sha256": "70517b11acb178a4b89bd4112023703dbecd2653984eca1579fbd3416f908c87"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_native.py",
+      "bytes": 13015,
+      "sha256": "d4c753c10ffd630aa244288171ecfbf1c032bb4c15507ccb23b57686bbf7e1ab"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_object_pools.py",
+      "bytes": 6261,
+      "sha256": "f2848d9859da30cb62322d08b1e8f0301a63e680c7804309250cc1648248591e"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_particles.py",
+      "bytes": 13887,
+      "sha256": "b3064a78a2691526763ce64f0f30af12b3fccfc7607f98ef97dc48c7c6dec8be"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_profile.py",
+      "bytes": 13786,
+      "sha256": "423420f3ad0e39e218b8a7ddecc355baea384e615b157305f596d19dd48eecc7"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_rail_correction.py",
+      "bytes": 13616,
+      "sha256": "23c7379c5deece6e1fbdbdef50e2122c1eb80434fc8356895eba50e5b39a2b57"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_resources.py",
+      "bytes": 25112,
+      "sha256": "18000185fe104a990ecd4d6999d546fe0c427ad5135a72406ee3b5edafe1a375"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_scene.py",
+      "bytes": 12358,
+      "sha256": "a3b9d3d678fc9454a20cbf6958380c6ce2b0f1ddeda596e99d6c1cf83ef8281a"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_scene_references.py",
+      "bytes": 6553,
+      "sha256": "0014898c502a544e6c590c169174a24811c2760e78ffe54c9304f36afab488c5"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_scene_stream.py",
+      "bytes": 24980,
+      "sha256": "82858b7b5541feb85d84496cb24b666dc0acf2d17c70a3bbdc6c1135a293d720"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_screen_effects.py",
+      "bytes": 5741,
+      "sha256": "914d9d48858cc5a8f6758335f48a4c66f4fb67c20ca5004689fd09aad9b46ce3"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_skater.py",
+      "bytes": 14252,
+      "sha256": "6a622c78002bc13732a7fdbaabef2cffcff8e149d87349251cd982dbb96e64b1"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_skater_animation.py",
+      "bytes": 8323,
+      "sha256": "4b2ff31a6642571c346aa5cd5788e95968a5ae8fe789fa1e0e8d82a014ca1776"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_switch_skating.py",
+      "bytes": 10387,
+      "sha256": "ad832e4238cd105f405246bc86e83d2e69fa9927b70f2328ac0ed370989e6509"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_terrain.py",
+      "bytes": 6513,
+      "sha256": "3f36f7103689af1456269ce8c62d58e5369b57b7c142863018032fc7cf17e505"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_trick_settings.py",
+      "bytes": 26289,
+      "sha256": "03350b1634abed788cd3db4e433524b1df64ca41018d3cca5bb710dba005f155"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_vehicle_nodes.py",
+      "bytes": 3692,
+      "sha256": "ff7349d3f5b4d41e92bd31d407d06cfed110a6efd9df3d7e0118a36d5ae2eb90"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_vehicle_transform.py",
+      "bytes": 3265,
+      "sha256": "c46504dcce22fde8f9415008a21f2b125a9dcc00243c8e8b04921cc9bd0aa0db"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_vehicle_world.py",
+      "bytes": 45172,
+      "sha256": "514a0242e41e2ca395123948e2e487596f8f77f8b9ce942b6de6bf7d19c7e610"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_vm_idle.py",
+      "bytes": 10406,
+      "sha256": "1c27b272a6d1cc6c1d45192995228bc1758a597edcbac95a8db0aa5a72dfbedc"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_worker_timeout.py",
+      "bytes": 4730,
+      "sha256": "d0c7c5b0ec722503f1ff8b6f0c7a40239c0f18ee2ea27bd081803a8f5f5e29da"
+    },
+    {
+      "path": "tools/vanilla_thaw/probe_world_rails.py",
+      "bytes": 37470,
+      "sha256": "f8d3bd9c44d764160304004034fdb3372d0a2a29db8481fe5bf7f00740d44754"
+    },
+    {
+      "path": "tools/vanilla_thaw/resource_bootstrap.json",
+      "bytes": 7404,
+      "sha256": "f36b398b97c737b0a0d7793a0e013a03565066b0ed7ea00c1700760dc059dffc"
+    },
+    {
+      "path": "tools/vanilla_thaw/scene_component_sizes.json",
+      "bytes": 13203,
+      "sha256": "06a212c60f9b84cfb9b1da40c564af5df0bd192fa8ce1c50de6fefd3a69bd506"
+    },
+    {
+      "path": "tools/vanilla_thaw/skater_bootstrap.json",
+      "bytes": 2460,
+      "sha256": "1359f062d1f7e2b4afa01aa982be963c42dbbce1198e5327fa5ebb4ad9f786e6"
+    },
+    {
+      "path": "tools/vanilla_thaw/stock_host.py",
+      "bytes": 7993,
+      "sha256": "1802ee9c61d914d0b9f102d33f7e1b74c0befdccff091e385fad0789f49aa828"
+    },
+    {
+      "path": "tools/vanilla_thaw/terrain_audio.py",
+      "bytes": 10697,
+      "sha256": "b70f1f0411acbce49b6730e7db205c747992f4a96664ff3f53a70e0a57042516"
+    },
+    {
+      "path": "tools/vanilla_thaw/terrain_audio_sources.json",
+      "bytes": 12095,
+      "sha256": "9cbb1f613e078f08e16dcf073ac5009c3331024f66abea80aeafd338da6ba23e"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_air_correction.py",
+      "bytes": 24827,
+      "sha256": "e5d14f5dab63fb808aec39a20e611f7fc659b4df0fad1633aec6322c222a854a"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_animation_banks.py",
+      "bytes": 2486,
+      "sha256": "6d431291df527f9018a965467db41ec59256304e38f3485dcfa345510d2f87c2"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_animation_sampling.py",
+      "bytes": 1064,
+      "sha256": "e8737820568e161862f521e7c7026fcd04acb4f949395b2467ca6a3b0d69e9f6"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_audio_bank.py",
+      "bytes": 10847,
+      "sha256": "be18732d9afc4903f0d0fe830bd29fa4d72f4e1066c673f23b8d4849113eb953"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_audio_frame.py",
+      "bytes": 9268,
+      "sha256": "395d7da59355ea1e55b85220d03a192f9b1462f4c859c30fdc3875bac34e63ce"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_body_correction.py",
+      "bytes": 8901,
+      "sha256": "d8c92a909a9af49ef5709c66c84b2eb54413cfda1a8b5fb40ab6ac2449bdc1f5"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_career.py",
+      "bytes": 1405,
+      "sha256": "52c0cc19c3da94b1605706db3aee6d302b5d1ce0625448b56caf580943ab985f"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_fault_stack.py",
+      "bytes": 1598,
+      "sha256": "0747c663afc2c65622778026c3978dbe201f342c838c77147616629c357d7d20"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_frame_clock.py",
+      "bytes": 6571,
+      "sha256": "83d53f87afe93d220974751d253cd9c736473f82278fe99726d92ce038575c8d"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_gameplay_options.py",
+      "bytes": 3560,
+      "sha256": "2aa22199fb2267327211b1171d4a79ecd6b7d33f3bca342abe0d0230878e3319"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_ground_trace.py",
+      "bytes": 5042,
+      "sha256": "ed0b5ce5dfef6cf9ab5f0ace6b119a007d23986fcff25de4cde8ff0d4ef06a7e"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_gta_rails.py",
+      "bytes": 7494,
+      "sha256": "2e2884d65d37c5b014b7e490a80420fc88a36e43573aac8b8afa7a337d4e1644"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_hud_state.py",
+      "bytes": 6573,
+      "sha256": "8a3ef8c0b03d36dfeec8fdb306c69bd05a248e9e241dec910618d4dcffe62191"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_import_assets.py",
+      "bytes": 4978,
+      "sha256": "e21e7fa421e58ec0dd6e34242e51cf65d9500c295c0ecd57a585449436e921cf"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_import_profile.py",
+      "bytes": 4550,
+      "sha256": "4806231732501a7210ca38fb7e666b2155a8149f26634a84f7b5f6b600f47cd1"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_import_qb.py",
+      "bytes": 10287,
+      "sha256": "009e66374411cca0a2d6a2d32225cad559871a7279fb1ec8d52bd0a777f3ac3c"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_import_resources.py",
+      "bytes": 14925,
+      "sha256": "1e7008d74eb0785d3d605102889f0e874f73ef9d70292e69f55565f067a6f695"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_input_mapping.py",
+      "bytes": 6172,
+      "sha256": "e6aa45e24311189b2245d432c9a0399da499be99d9544f05e619c3defbac34b4"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_lighting.py",
+      "bytes": 3040,
+      "sha256": "0b0c7bac84c01294c80c269ee403c021ae64852ce552ccececb666e3902c6223"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_local_player.py",
+      "bytes": 2750,
+      "sha256": "d706ea15d20290f9b3621e2364ce5f7a7ef575360a24475417c08e6b5efb9582"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_motion_contact.py",
+      "bytes": 2877,
+      "sha256": "1212e9359417a2ce57f3974175d2ce4e62f3d0f25e14205c0b2fd4931278d699"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_native_resource_timing.py",
+      "bytes": 5455,
+      "sha256": "42632d8170cc29f3fdac353e9b8dd1a49206bafc59a686f7a343018d812ddcd9"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_native_worker.py",
+      "bytes": 36727,
+      "sha256": "323d7a52c2f673426ec9889f9b7cf5b4675e67696facd361c78403aad61550cd"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_object_pools.py",
+      "bytes": 2229,
+      "sha256": "843ffe579edff1407fba580886085fb2a1c695e86ac35fc251e5958d28563304"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_particles.py",
+      "bytes": 4844,
+      "sha256": "65a783c16646d0e19bc24a441fa1748bdded7740f44c11fd011053a189b499cd"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_perfect_balance.py",
+      "bytes": 4137,
+      "sha256": "f40e496320ba18067aba0eb51ac430db7bfa7b9d5e14ac098ddf5ff6078629f3"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_prepare_image.py",
+      "bytes": 4435,
+      "sha256": "56066c6b9fc0127af2ba6821b80434ae465bda750adff803d3b784124e030c76"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_probe_audio.py",
+      "bytes": 5683,
+      "sha256": "ed37688c4ed262f107a54da4eeb3b7bac262404efdee7ee2a8f8bbb629d4b89d"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_probe_audio_mix.py",
+      "bytes": 6704,
+      "sha256": "7afc000f3b53f27fae59464e07d0daf089490b780ba0422f0e762c529fa239f2"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_probe_camera.py",
+      "bytes": 1503,
+      "sha256": "49b3d4707a17b68365a9cc6c24bbf5f8b4ffa5b59c29344083b4aee8ce9005e3"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_probe_camera_projection.py",
+      "bytes": 2185,
+      "sha256": "3b5dd660a5baf4a8c9758f691c7eba9906fd5b9736c9dc101dcc99a7008764a7"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_probe_camera_recenter.py",
+      "bytes": 1838,
+      "sha256": "d66d284b3e139ec2db4552d7a1fac24acfe8e920d6ba4991ca33b6e9a1d740a3"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_probe_core.py",
+      "bytes": 1258,
+      "sha256": "a5de94f5c826de4378ed30e44852352d9157c5da8b10eb5bc2c42fe9df2e8e01"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_probe_frame_device.py",
+      "bytes": 6710,
+      "sha256": "7f001acdda4d2f2dab19a05765185b04e72f02c327d8f11285d13268e20a74e3"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_probe_frame_input.py",
+      "bytes": 2602,
+      "sha256": "a936af525befa762c0b3dfe7d52f47a1a4cf9f5961521c7598d8fde6fe4850d8"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_probe_frames.py",
+      "bytes": 6728,
+      "sha256": "317d993fd793eb7b44dbc9d5d4db410555c31d97b8faace4fc733be4e2763723"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_probe_frontend.py",
+      "bytes": 2217,
+      "sha256": "f757cc080b4144a11b79cbccabea2eb1343ba65af366f2723ed93dbb65cdc63f"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_probe_frontend_base.py",
+      "bytes": 2932,
+      "sha256": "37462ec1a3b7c386b07ac11bb52b1319e29041f32d4af7727adfa222cf871ff3"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_probe_global_assets.py",
+      "bytes": 7403,
+      "sha256": "232eeb707d6699ed62751eb233ac6fa4a67c9ca2b7ba12012633d01d951ddfd3"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_probe_gta_scene.py",
+      "bytes": 12076,
+      "sha256": "4e2cf0ff5df96de1c5ee7707f5693227cad7d555240044089d9d1d566d91a624"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_probe_handoff.py",
+      "bytes": 3342,
+      "sha256": "fcd4e70e2b2bed4967c44467f9b5214792496605c6b3c88060812655682d5057"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_probe_hud.py",
+      "bytes": 772,
+      "sha256": "3d01fbb46e1e922c00ed25dfe110feeb87ef4322c81a87acbe948a378445fefe"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_probe_hud_layout.py",
+      "bytes": 6783,
+      "sha256": "55a2823cc4465d267c22c875d0e16800a8643e234448e5e7679e0f0f102b9e87"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_probe_loader_cli.py",
+      "bytes": 2507,
+      "sha256": "f9393dda8eaac1d1c97db13fdd07b15c52e4b3e7e79b379b3172dfdca1a6f412"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_probe_log.py",
+      "bytes": 2869,
+      "sha256": "c5e48ec1a2e6f56e9b79f236509f301377fa894e219ef37d1a670747f1caa87c"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_probe_model_frame.py",
+      "bytes": 5882,
+      "sha256": "404554f38075a5e6612d50ad96cfee79fe126cdd4b60714ae91e319b2864f7a8"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_probe_resources.py",
+      "bytes": 5197,
+      "sha256": "cb39f1acd37e61a7706c985351ecf060e860e74350954d0cf9531ee7f0262aea"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_probe_scene.py",
+      "bytes": 3471,
+      "sha256": "8b88a93aa84e20dc964ad8b5451560b1c98b2f29629483fc887dfe075f321568"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_probe_skater.py",
+      "bytes": 2077,
+      "sha256": "11d0fe64ddbe9aafc74d0848fa3dae988c7739f10da2336e279365d088bfce59"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_probe_switch_skating.py",
+      "bytes": 3551,
+      "sha256": "1c4ec9b69f44eb825d9b661cbb061f34e228f90879eb4f5e39823cb21ed0abee"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_probe_vm_idle.py",
+      "bytes": 9893,
+      "sha256": "d5de19d87d3ec2d5571da036e09b352bfefecbfa8c771c5aae59f9bea0c388c4"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_rail_correction.py",
+      "bytes": 22282,
+      "sha256": "6a736628f0deeed8344c402be754086f97169e90648820935e7fb37703fb3862"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_rail_preload.py",
+      "bytes": 15373,
+      "sha256": "703d0daa37ff869e0976d952936d612077b768db6d50283c9d234b442ea879e0"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_scene_references.py",
+      "bytes": 2241,
+      "sha256": "638895d3a416d0d49cf1f204fb13412be43a43c0154ad155da5e5168850f83cb"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_scene_stream.py",
+      "bytes": 11388,
+      "sha256": "489d9d24fadb54041d54330b4508ea78b7958721822876073ec17fd889b0ccb4"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_screen_effects.py",
+      "bytes": 1290,
+      "sha256": "5769b8be6c89998a4c8d64a0cf2565aa39e7d5f860f3473ff35f667ff600a6e2"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_skater_animation.py",
+      "bytes": 1402,
+      "sha256": "6f7cdb95d0fec5b6f33f9abbadb52751f0be68a44474ee3111175b93f0e94726"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_stock_host.py",
+      "bytes": 6931,
+      "sha256": "1f45320ed519376a4852ee9bf6a6e82c7387510f12bd5f9f36fc5bf3956026a0"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_terrain.py",
+      "bytes": 1942,
+      "sha256": "84eb7740ba766a95c0ed2996eb9f09c97b79713462bdca45e251a74089852822"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_terrain_audio.py",
+      "bytes": 6061,
+      "sha256": "91d584c0708585db7bd1b98f154ee588c532c1d7f44ef3a1e1dc0f642faa872c"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_trick_settings.py",
+      "bytes": 7516,
+      "sha256": "2ff9078b3527f36bb8cf17bb3eb1a9d6b7771cb47db080c8ad511ffc8187c01f"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_vehicle_transform.py",
+      "bytes": 4326,
+      "sha256": "24d942cee0cd8dc04ab822e8d18d3e60de233892b6226b73f8d217470ad27c08"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_vehicle_world.py",
+      "bytes": 26748,
+      "sha256": "82bf1e6fc67d129720a581d4b32122faae180a8294d93ca1b423a57a585d31d8"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_worker_timeout.py",
+      "bytes": 1586,
+      "sha256": "de7ae23f93c3cb97382d48928654235c90d83ac28a94d7bd393b3de0a38649d3"
+    },
+    {
+      "path": "tools/vanilla_thaw/test_world_rails.py",
+      "bytes": 15019,
+      "sha256": "93ccc6c3426c6ce5d7796110fe9f8ac440d5729001c45d19318776c029caef9b"
+    },
+    {
+      "path": "tools/vanilla_thaw/vehicle_native_pins.json",
+      "bytes": 4805,
+      "sha256": "5b30b9f87f3031ee33bdfddba01d0bd42943b8016ee70230ff6649ee04cb194d"
+    },
+    {
+      "path": "tools/waw/build_board.py",
+      "bytes": 18521,
+      "sha256": "4f6ca83d38b4d536ebe1ca99e4583794714c780e20ed06e5a7ac1801853240f2"
+    },
+    {
+      "path": "tools/waw/export_hud.py",
+      "bytes": 9024,
+      "sha256": "c1b599b2abcdd680b85652b7182cfd4eeca65822ef0df29c69725596fb64e905"
+    },
+    {
+      "path": "tools/waw/retarget.py",
+      "bytes": 18754,
+      "sha256": "9cc705f4f38299270e814d1e27d40c16ec5f20c0d2878e0b3c6aa02e99636687"
+    }
+  ]
+}

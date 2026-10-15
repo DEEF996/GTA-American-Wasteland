@@ -1,0 +1,95 @@
+{
+  "format": "stock-gameplay-frames-pins-v1",
+  "stock_exe_sha256": "ff3351529586eefba74d85a807282e18101844e68ecaa5cee20a0a16bed0b118",
+  "functions": [
+    [
+      "DeferredOwnerCleanup",
+      4404464,
+      12,
+      "8cde1373182eee79fa9b0bd8767b0f20c3d770c09700e024bc3b7cafee0d329d"
+    ],
+    [
+      "ComponentManagerUpdate",
+      4394528,
+      290,
+      "2aabf8b5b4139abd01c48f4cc2f39de6c85dc8ebc2b48fa5af6506a05e3873ae"
+    ],
+    [
+      "SpawnedScriptsUpdate",
+      4274096,
+      218,
+      "9a967f4caf940b1b01ede799e4eae33a7951ca1d2615f46fe38eddfcd1264ecb"
+    ],
+    [
+      "HeapContextPush",
+      6447712,
+      36,
+      "0618d94e5fb6c4434feb1accaba72d1c90904bbc74e780a1683ce2f8944eebc3"
+    ],
+    [
+      "HeapContextPop",
+      6447760,
+      57,
+      "4210c6cf2e7ebda9ca432215a40869161c4a36437e4536ad47444c8025bd0546"
+    ],
+    [
+      "OwnerTaskShim",
+      4395088,
+      12,
+      "75c2543bbd59119df0daa10a1c3350d797d1d800a5f3dbfffef88e5e827a5684"
+    ],
+    [
+      "DeferredListDrain",
+      4404208,
+      73,
+      "5b5d7d2e8c68e13f102006ce8178a562a9b9ef32ad9fac866e148c8ef3f8586c"
+    ],
+    [
+      "CompositeUpdateEntry",
+      4388240,
+      9,
+      "761f4451c20dd9084d1ccf9ff8eb80059b0643607b6ae55abad2e7be4bba863a"
+    ],
+    [
+      "TaskManagerPhaseOrdering",
+      4416688,
+      771,
+      "fdd7498736ad013a986534af9003e125417df1667e4e5e3ab0b5fa8bd6de66a9"
+    ],
+    [
+      "PlayersRegister",
+      4850624,
+      6,
+      "e89299649ee709f79cbd6ce1d8db0f1eaa2cceba505bd1638ae903cde2cbbb0f"
+    ],
+    [
+      "PlayersLookup",
+      4850912,
+      158,
+      "d2a0c2c1b933b95db35fa85f0be8da337afb571e6fb4cf6897715163bb90c858"
+    ],
+    [
+      "GameRegisterPlayerCaller",
+      5700203,
+      16,
+      "a83c8eb812ae97724fc6d6b7164da02864bced8146a57b6dc03c099ef90fd0aa"
+    ]
+  ],
+  "spawned_script_callers": [
+    5766225
+  ],
+  "globals": {
+    "component_manager": 7198384,
+    "task_manager": 7198936,
+    "script_context": 7197684,
+    "owner_update_busy": 7197860,
+    "spawned_update_busy": 7196568,
+    "script_head": 7196556,
+    "script_count": 7196560,
+    "allocator": 8665228,
+    "allocator_object": 8661784,
+    "bottomup_heap": 8664752,
+    "bottomup_name": 6955700
+  },
+  "scope": "Whole native cleanup/owner/spawned callbacks; original task-manager ordering used only as static provenance, never invoked wholesale."
+}

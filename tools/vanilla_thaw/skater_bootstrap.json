@@ -1,0 +1,99 @@
+{
+  "format": "stock-full-skater-proof-pins-v1",
+  "stock_exe_sha256": "ff3351529586eefba74d85a807282e18101844e68ecaa5cee20a0a16bed0b118",
+  "functions": [
+    [
+      "ViewportInitializeAllTen",
+      5168112,
+      109,
+      "14d88e37dc61ef1861e239ce015678c43af8df2c5ec3241b302f264c195a3ca8"
+    ],
+    [
+      "skater_ctor",
+      5845280,
+      1726,
+      "3112770b751a22a29fd80385e4dff29469cff938a126a7a41d20f58b839ca9a3"
+    ],
+    [
+      "skater_original_profile_init",
+      5834528,
+      2499,
+      "a97a89dfdad23202047152a7abfb379281c3625ce49aa2fa5a566e9f4d38e177"
+    ],
+    [
+      "composite_get_component",
+      4385312,
+      99,
+      "cf1c79f49f941cf12054b05277d20a51c8e8725e7a765c41118345b9dc67634d"
+    ],
+    [
+      "career_set_stat",
+      5848160,
+      26,
+      "a9183c5918111e595c71cb520203009225adc2d5818d3940573214296da32c02"
+    ],
+    [
+      "ViewportAspectSet",
+      5167728,
+      15,
+      "a95df73a29fc0d1ad88531aaa17da69b028323a3a882eaecb9e7bd032b55aa2f"
+    ],
+    [
+      "ViewportModeSet",
+      5168560,
+      11,
+      "75090d0fc9d1b194576142f22d3ea706cd3549986f72d4e1332e42e38c457fae"
+    ],
+    [
+      "ObjectLookup",
+      4403984,
+      11,
+      "b6737b4e64817d7e3aad342b3526dd1d30714e79fd532fb24a1423e8170d64b4"
+    ]
+  ],
+  "entry_pin_scopes": {
+    "ViewportModeSet": "eleven-byte entry with original routed branch",
+    "ObjectLookup": "complete eleven-byte Events forwarding wrapper; actual call590784"
+  },
+  "caller_evidence": {
+    "ViewportAspectSet": {
+      "old_caller": 4709220,
+      "stock_caller": 4709636,
+      "source_parameter_checksum": 259800234
+    },
+    "ViewportModeSet": {
+      "old_caller": 5882716,
+      "stock_caller": 5883132,
+      "mode": 0
+    },
+    "skater_heaps": {
+      "stock_startup_span": [
+        6452458,
+        6452559
+      ],
+      "names": [
+        "skaterheap0",
+        "skatergeomheap0"
+      ],
+      "capacities": [
+        147456,
+        1146880
+      ],
+      "stock_format_strings": [
+        6955584,
+        6955600
+      ]
+    }
+  },
+  "globals": {
+    "viewports": 7780048,
+    "viewport_mode": 7780088,
+    "viewport_aspect": 7780096,
+    "viewport_active_count": 7780100,
+    "viewport_mapping": 7081696,
+    "single_viewport_mapping": 6897960,
+    "component_manager": 7198384,
+    "skater_vtable": 6916584
+  },
+  "scope": "Original whole local CSkater/ProfileInit with process-owned resources; no gameplay update or GTA publication."
+}

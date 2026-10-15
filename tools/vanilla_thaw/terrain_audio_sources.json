@@ -1,0 +1,385 @@
+{
+  "format": "stock-thaw-terrain-audio-pins-v1",
+  "native_count": 144,
+  "sources": [
+    {
+      "pak": "data/worlds/worldzones/z_sz/z_sz.pak.wpc",
+      "member": "worlds/worldzones/z_sz/z_sz_sfx_dat_wpc.qb.wpc",
+      "qb_bytes": 4308,
+      "qb_sha256": "833430ecdefbe05efe684cf67ea2cc1aac957233f2fb9fc991bfd255756eb9c1",
+      "bank": "data/sounds/pak/z_sz_sfx.pak.wpc",
+      "bank_bytes": 6344704,
+      "bank_sha256": "ba71638b7213ecac1dc37c0eb643014b04eb39f2502ba5828fdd310fba3ad1ce",
+      "sample_count": 51,
+      "parser": {
+        "array_key": 3868387011,
+        "source_key": 2702119216,
+        "size_key": 2058792487,
+        "count": 51,
+        "allow_alignment_padding": true
+      },
+      "samples": [
+        {
+          "checksum": 59034811,
+          "offset": 812544,
+          "pcm_bytes": 262146,
+          "frequency": 44100,
+          "flags": 8,
+          "pitch": 100.0,
+          "volume": 100.0,
+          "dropoff": 0.0,
+          "sha256": "d4df8c1c925221386599ff4235990f9a11cf06c6cb8c63fe4fee8fbe40071929"
+        },
+        {
+          "checksum": 71070439,
+          "offset": 4613632,
+          "pcm_bytes": 81674,
+          "frequency": 44100,
+          "flags": 0,
+          "pitch": 100.0,
+          "volume": 100.0,
+          "dropoff": 0.0,
+          "sha256": "ad02adcf7121322e7597bcc869fbdf7965c060eb96d7905c03de062b98050acd"
+        },
+        {
+          "checksum": 485347654,
+          "offset": 2150016,
+          "pcm_bytes": 45312,
+          "frequency": 44100,
+          "flags": 0,
+          "pitch": 100.0,
+          "volume": 100.0,
+          "dropoff": 0.0,
+          "sha256": "868c84314a2aaab4c58aa6f13717fd9913d9f9cea82fdf2b24481f748c0b8706"
+        },
+        {
+          "checksum": 698262599,
+          "offset": 1074944,
+          "pcm_bytes": 167400,
+          "frequency": 44100,
+          "flags": 8,
+          "pitch": 100.0,
+          "volume": 100.0,
+          "dropoff": 0.0,
+          "sha256": "464d302c2733fb0c6c2e05b8da5a3fc6dc5a75f972e62843df4ecf5c326106ff"
+        },
+        {
+          "checksum": 848189183,
+          "offset": 1918080,
+          "pcm_bytes": 32622,
+          "frequency": 44100,
+          "flags": 0,
+          "pitch": 100.0,
+          "volume": 100.0,
+          "dropoff": 0.0,
+          "sha256": "b35c438cdf1a2cf6942ef057226494338931ed0636b5f6b76087ce389b37366f"
+        },
+        {
+          "checksum": 930814219,
+          "offset": 1560832,
+          "pcm_bytes": 220512,
+          "frequency": 44100,
+          "flags": 8,
+          "pitch": 100.0,
+          "volume": 100.0,
+          "dropoff": 0.0,
+          "sha256": "8784b0fcdde5fadc08afea95f760940b6cc2f9bdaab7dbc607be8eea85361994"
+        },
+        {
+          "checksum": 1105042235,
+          "offset": 1242496,
+          "pcm_bytes": 31938,
+          "frequency": 44100,
+          "flags": 0,
+          "pitch": 100.0,
+          "volume": 100.0,
+          "dropoff": 0.0,
+          "sha256": "52062129cc639b573a39dd06e4703696a8d773324f27e9aa25d858b22f5ad3b8"
+        },
+        {
+          "checksum": 1182905281,
+          "offset": 4546176,
+          "pcm_bytes": 67268,
+          "frequency": 44100,
+          "flags": 0,
+          "pitch": 100.0,
+          "volume": 100.0,
+          "dropoff": 0.0,
+          "sha256": "dff77b2a51dadd4e7a512e014495f47f7aec1017c5fe8676414a10a2f8773e87"
+        },
+        {
+          "checksum": 1607141916,
+          "offset": 2953856,
+          "pcm_bytes": 231788,
+          "frequency": 44100,
+          "flags": 8,
+          "pitch": 100.0,
+          "volume": 100.0,
+          "dropoff": 0.0,
+          "sha256": "80ef2d687d0112032369704c85d96bea52598858f0f6f46a0c3500e699226bc7"
+        },
+        {
+          "checksum": 1654540797,
+          "offset": 3644928,
+          "pcm_bytes": 204802,
+          "frequency": 44100,
+          "flags": 8,
+          "pitch": 100.0,
+          "volume": 100.0,
+          "dropoff": 0.0,
+          "sha256": "51778bec63d51b3b1fde4e4a4a253a0b552bee3cd87f4ac5d4e702d0bf675605"
+        },
+        {
+          "checksum": 1942858629,
+          "offset": 1950848,
+          "pcm_bytes": 51610,
+          "frequency": 44100,
+          "flags": 0,
+          "pitch": 100.0,
+          "volume": 100.0,
+          "dropoff": 0.0,
+          "sha256": "ac900abd8d7d517107c97380b8e7a3117fab22779326db771a188589ad045ecc"
+        },
+        {
+          "checksum": 2453332305,
+          "offset": 1781504,
+          "pcm_bytes": 136344,
+          "frequency": 44100,
+          "flags": 8,
+          "pitch": 100.0,
+          "volume": 100.0,
+          "dropoff": 0.0,
+          "sha256": "9b338a6d22689a0932dee7e810bbc954242f85c3883bae742e940f47d2e92b6b"
+        },
+        {
+          "checksum": 2473014091,
+          "offset": 3337600,
+          "pcm_bytes": 259074,
+          "frequency": 44100,
+          "flags": 8,
+          "pitch": 100.0,
+          "volume": 100.0,
+          "dropoff": 0.0,
+          "sha256": "9e2ec938724d20573f7299eeee2f5d86e91c32752a81181e41178ffbbdbf020f"
+        },
+        {
+          "checksum": 2474762672,
+          "offset": 3849984,
+          "pcm_bytes": 135680,
+          "frequency": 44100,
+          "flags": 8,
+          "pitch": 100.0,
+          "volume": 100.0,
+          "dropoff": 0.0,
+          "sha256": "00fae0957d7d7d03650e7b4b32f5c0df32e0361e497b828f0a9a15de34e3c1b3"
+        },
+        {
+          "checksum": 2520883499,
+          "offset": 5240064,
+          "pcm_bytes": 197624,
+          "frequency": 44100,
+          "flags": 8,
+          "pitch": 100.0,
+          "volume": 100.0,
+          "dropoff": 0.0,
+          "sha256": "60576cdd23ebaf1efe260cc7d9c3d069e68a30bfb8816d95b0a5d0411dac9087"
+        },
+        {
+          "checksum": 2531056611,
+          "offset": 2053760,
+          "pcm_bytes": 96116,
+          "frequency": 44100,
+          "flags": 8,
+          "pitch": 100.0,
+          "volume": 100.0,
+          "dropoff": 0.0,
+          "sha256": "acad04ab6657298c77a4fb7e5e15c138b726c5ff3a09de6991722b9bafe59977"
+        },
+        {
+          "checksum": 2713723084,
+          "offset": 6262784,
+          "pcm_bytes": 81674,
+          "frequency": 44100,
+          "flags": 0,
+          "pitch": 100.0,
+          "volume": 100.0,
+          "dropoff": 0.0,
+          "sha256": "6152ab6a3d94d1e078e2a1268dc75e6383c5d17e3d9332c4ec25cf31a1af5771"
+        },
+        {
+          "checksum": 2892520758,
+          "offset": 3185792,
+          "pcm_bytes": 151554,
+          "frequency": 44100,
+          "flags": 8,
+          "pitch": 100.0,
+          "volume": 100.0,
+          "dropoff": 0.0,
+          "sha256": "d55ce4db8213677a3d80f22d17b0ffab07bf137e902516b0ff537543bf970e1b"
+        },
+        {
+          "checksum": 3022542139,
+          "offset": 2002688,
+          "pcm_bytes": 50842,
+          "frequency": 44100,
+          "flags": 0,
+          "pitch": 100.0,
+          "volume": 100.0,
+          "dropoff": 0.0,
+          "sha256": "69f6304190d0a10e6b76aabd171229754cd28c393371747c49f6f497d6e4889f"
+        },
+        {
+          "checksum": 3128424389,
+          "offset": 3985792,
+          "pcm_bytes": 97026,
+          "frequency": 44100,
+          "flags": 0,
+          "pitch": 100.0,
+          "volume": 100.0,
+          "dropoff": 0.0,
+          "sha256": "98b5c883781d3b94186ff5a1251cf97365822496169c9263688258a7b4d86c2e"
+        },
+        {
+          "checksum": 3140091593,
+          "offset": 4985472,
+          "pcm_bytes": 65988,
+          "frequency": 44100,
+          "flags": 0,
+          "pitch": 100.0,
+          "volume": 100.0,
+          "dropoff": 0.0,
+          "sha256": "74a24ce103b0ecffd11a9a604c4ded8f492a7a7148e6b66a4625f778cd2bda51"
+        },
+        {
+          "checksum": 3610727230,
+          "offset": 3596928,
+          "pcm_bytes": 47808,
+          "frequency": 44100,
+          "flags": 0,
+          "pitch": 100.0,
+          "volume": 100.0,
+          "dropoff": 0.0,
+          "sha256": "b4dbb1849691b253929a16cfb8d4949c1254a926d57cc949b2bb680280222cdc"
+        },
+        {
+          "checksum": 3748786735,
+          "offset": 4083072,
+          "pcm_bytes": 462874,
+          "frequency": 44100,
+          "flags": 8,
+          "pitch": 100.0,
+          "volume": 100.0,
+          "dropoff": 0.0,
+          "sha256": "3e2f7f1534b3aa40d981350945cb37c5d3038e60e226141671a2240a506277cb"
+        },
+        {
+          "checksum": 3851169093,
+          "offset": 4695552,
+          "pcm_bytes": 289768,
+          "frequency": 44100,
+          "flags": 8,
+          "pitch": 100.0,
+          "volume": 100.0,
+          "dropoff": 0.0,
+          "sha256": "312b820fbaac99d6cddce88cffb7e22ed0a3244c3c333e2d933deb327f507910"
+        },
+        {
+          "checksum": 4048306404,
+          "offset": 1274624,
+          "pcm_bytes": 78638,
+          "frequency": 44100,
+          "flags": 0,
+          "pitch": 100.0,
+          "volume": 100.0,
+          "dropoff": 0.0,
+          "sha256": "33ec6adc3f03222feb9fe5649e7adb9a0e48ff1885dc27518db46ca1553b75ef"
+        },
+        {
+          "checksum": 4082037652,
+          "offset": 1353472,
+          "pcm_bytes": 42880,
+          "frequency": 44100,
+          "flags": 0,
+          "pitch": 100.0,
+          "volume": 100.0,
+          "dropoff": 0.0,
+          "sha256": "384eb9a4e533b410c20cca93d99a89163cf33ff9058dd32d1dd07da3a5b4ba3d"
+        }
+      ]
+    },
+    {
+      "pak": "data/worlds/worldzones/z_bhsr/z_bhsr.pak.wpc",
+      "member": "worlds/worldzones/z_bhsr/z_bhsr_sfx_dat_wpc.qb.wpc",
+      "qb_bytes": 4964,
+      "qb_sha256": "e4d222b94e6a4f1011a2828ab8c9d1d02645eab6eb8aae1edcd7c4538b7d2f99",
+      "bank": "data/sounds/pak/z_bhsr_sfx.pak.wpc",
+      "bank_bytes": 6781952,
+      "bank_sha256": "61c5b23b2ef8441ac2a99048de45c27a9123533d7e305359a1528228b339ad56",
+      "sample_count": 59,
+      "parser": {
+        "array_key": 2672529948,
+        "source_key": 1440047122,
+        "size_key": 3223507428,
+        "count": 59,
+        "allow_alignment_padding": true
+      },
+      "samples": [
+        {
+          "checksum": 866690276,
+          "offset": 4785280,
+          "pcm_bytes": 220512,
+          "frequency": 44100,
+          "flags": 8,
+          "pitch": 100.0,
+          "volume": 100.0,
+          "dropoff": 0.0,
+          "sha256": "8784b0fcdde5fadc08afea95f760940b6cc2f9bdaab7dbc607be8eea85361994"
+        },
+        {
+          "checksum": 1018149796,
+          "offset": 3350656,
+          "pcm_bytes": 134236,
+          "frequency": 44100,
+          "flags": 8,
+          "pitch": 100.0,
+          "volume": 100.0,
+          "dropoff": 0.0,
+          "sha256": "7d8376b54f40fcb269358cc4bdc167a4da78808830093cc02808f8d17e6fbdbd"
+        },
+        {
+          "checksum": 1448482485,
+          "offset": 6314496,
+          "pcm_bytes": 278828,
+          "frequency": 44100,
+          "flags": 8,
+          "pitch": 100.0,
+          "volume": 100.0,
+          "dropoff": 0.0,
+          "sha256": "79cca0346c733518ab21ff81abdc6c62fd6a37ac14bd37b7bbbdaed7a055ad49"
+        },
+        {
+          "checksum": 1682375119,
+          "offset": 2207744,
+          "pcm_bytes": 276222,
+          "frequency": 44100,
+          "flags": 8,
+          "pitch": 100.0,
+          "volume": 100.0,
+          "dropoff": 0.0,
+          "sha256": "2004941c3aa166b7dd9a8197241c2605e24aad6ab33dcedba4c21e4b94b5176f"
+        },
+        {
+          "checksum": 3217728868,
+          "offset": 5283840,
+          "pcm_bytes": 314410,
+          "frequency": 44100,
+          "flags": 8,
+          "pitch": 100.0,
+          "volume": 100.0,
+          "dropoff": 0.0,
+          "sha256": "ca72e6bd533d1634747b3604bbfb5e657d3425fa08eeef915fc52dabe0d04cbb"
+        }
+      ]
+    }
+  ]
+}

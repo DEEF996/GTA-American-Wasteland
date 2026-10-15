@@ -1,0 +1,239 @@
+{
+  "format": "stock-game-context-proof-pins-v1",
+  "stock_exe_sha256": "ff3351529586eefba74d85a807282e18101844e68ecaa5cee20a0a16bed0b118",
+  "audit_sha256": "41dd92c25a6121f4dee27546a0bc9a75b5428238901abf71389b4433a9efdb5e",
+  "functions": [
+    [
+      "game_factory",
+      5704064,
+      77,
+      "30e4e6811c8f616201fc9e7883c178f39dae5dc7d4cd5fda98933def2ae2a1da"
+    ],
+    [
+      "game_ctor",
+      5701232,
+      702,
+      "262fb87979d1d9d93a9f45e11ddf9602e3abdf113e20f238e0e46ca58ee115b9"
+    ],
+    [
+      "tags_factory",
+      5873280,
+      74,
+      "14a9ec6f4460be4fa54dbcb4f3c4d66695e50ea41a5af540cb0e9f30e9cc0b0a"
+    ],
+    [
+      "tags_ctor",
+      5872144,
+      194,
+      "70ef538cf4434627ff6e8ded112097ad393bc34a41a96a7185941a539ecda4f7"
+    ],
+    [
+      "history_factory",
+      5825312,
+      74,
+      "b468ed5a7dab9ee60e75230ffb0a44b035301e919f9a0ae5d0b1839c653d578f"
+    ],
+    [
+      "history_ctor",
+      5825056,
+      41,
+      "51be1b654eae37de1c87411ae1ab929cebf52b019e4d7bcc236c366e52190d48"
+    ],
+    [
+      "history_records_ctor",
+      5827696,
+      139,
+      "fcc0ab0c3e117c0198c4201038502b3beb98c6f867628096fdb55dd747445643"
+    ],
+    [
+      "history_record_ctor",
+      5826144,
+      489,
+      "b3a131933f54474f529e25f19fd7a07155268badcd8ac8987207d485db33d3a4"
+    ],
+    [
+      "career_ctor",
+      5857536,
+      752,
+      "e0f985cacdbaeac11a9b7b98255c66a7076b6b719a92ad0234af0f1ef353b8b5"
+    ],
+    [
+      "game_tasks_ctor",
+      5732832,
+      195,
+      "ae32dbb9dc9526012fabe2986c1163e99ecbbea02846b73b4ad1337485c6f554"
+    ],
+    [
+      "eventmanager_factory",
+      4410800,
+      77,
+      "8d73eb7d57b8cb18973806cbbf476cac9924cc34b3abe637e6eed86ea19be815"
+    ],
+    [
+      "replay_singleton",
+      6358688,
+      74,
+      "6cee7f0bce31efe8c9071d762076fc89db45eb7e1bde61d9f50bb90afe1128cb"
+    ],
+    [
+      "replay_ctor",
+      6358304,
+      384,
+      "1dfdb6b1cd91820fc1e9b429afa9908078225f7ac46166a1053b642a1d3d010a"
+    ],
+    [
+      "record_factory",
+      6394784,
+      120,
+      "b3343322941af56dfe51a057428841a053a97c2cf876f99659c7a3672fb52d7d"
+    ],
+    [
+      "record_ctor",
+      6392384,
+      456,
+      "be2a1297b5cd4c1017ac2442a5dbea1e58eaf6cea9502d14ab17be021cd3c619"
+    ],
+    [
+      "record_aux_ctor",
+      6370080,
+      152,
+      "d93b34f621e80864be4ac0bd15d4e1e183f4c3c494cbfde7dd1285755aef4f87"
+    ],
+    [
+      "mode_factory",
+      5615760,
+      74,
+      "c5064a63d366a88c9bd2013fc8521365265d3bd1d953be197046051b9774ea1d"
+    ],
+    [
+      "players_factory",
+      4851136,
+      77,
+      "d4c439f4ab7401e296f75852a028cb7a48756312a626d2c6f28691486b46361e"
+    ],
+    [
+      "players_ctor",
+      4849584,
+      6,
+      "83405a34bfb8dfe7bc716303b8022c7194941ad6b5ec2a1604d120e4fa294f60"
+    ],
+    [
+      "eventmanager_ctor",
+      4410176,
+      6,
+      "dbf6456efe30d65acecd318d5030537ecb6fd1e58debdd339eae3145bdd3991d"
+    ],
+    [
+      "mode_ctor",
+      5615584,
+      6,
+      "30699a3fd8aa65b5df3876da6dab885c908bc69e76015c1703b62beb20375f6b"
+    ],
+    [
+      "animation_maps_ctor",
+      4692704,
+      6,
+      "dcf2da3211df760f998914fc50323f2ff946480cfb02f3847063dceb15746b55"
+    ],
+    [
+      "game_component_manager_alias",
+      5043088,
+      10,
+      "fa61fcf344b889e08560fffa3fa89c3b67720b80fc64aba492ef086a3c696497"
+    ]
+  ],
+  "sources": [
+    {
+      "order": 115,
+      "canonical_name": "scripts/game/misc/gameoptions.qb.wpc",
+      "cache_file": "members/0115.qb",
+      "bytes": 4008,
+      "sha256": "a05a6915d37e5da8094fca5c704a3585ca928d55f7447be628fad761b8169371"
+    },
+    {
+      "order": 38,
+      "canonical_name": "scripts/game/skater/skater_profile.qb.wpc",
+      "cache_file": "members/0038.qb",
+      "bytes": 30004,
+      "sha256": "2079462ef4376a217dc2b58a760b0d5db641cf7fdee8cfd7d14b48c27f673aea"
+    },
+    {
+      "order": 180,
+      "canonical_name": "scripts/game/goal_piece_goals.qb.wpc",
+      "cache_file": "members/0180.qb",
+      "bytes": 16848,
+      "sha256": "a34f937b2d823fd8d334e2f5684951dddd74941cd21d709002f729141ba568b5"
+    },
+    {
+      "order": 157,
+      "canonical_name": "scripts/game/menu/gamemenu_pause.qb.wpc",
+      "cache_file": "members/0157.qb",
+      "bytes": 16920,
+      "sha256": "f4002c1ba510567d90358c51702a39e5c24ef4c691b1f41e9551a514ef811d65"
+    },
+    {
+      "order": 215,
+      "canonical_name": "scripts/game/cas_stores.qb.wpc",
+      "cache_file": "members/0215.qb",
+      "bytes": 50676,
+      "sha256": "265dd94829da87fba51018e74929940a1eb55f8c2d2905ce898c4d80a108f157"
+    },
+    {
+      "order": 14,
+      "canonical_name": "scripts/gamemodes/gamemode.qb.wpc",
+      "cache_file": "members/0014.qb",
+      "bytes": 30372,
+      "sha256": "a1f8c8061cb07082cccdcefc3052f1b04f3c4bccc60a5a2eb37b7fd3c2e7e09d"
+    }
+  ],
+  "globals": {
+    "game": [
+      8644636,
+      8644640
+    ],
+    "profile": [
+      8644756,
+      8644760
+    ],
+    "tags": [
+      8644884,
+      8644888
+    ],
+    "players": [
+      7251972,
+      7251976
+    ],
+    "history": [
+      8644764,
+      8644768
+    ],
+    "events": [
+      7198416,
+      7198420
+    ],
+    "replay": [
+      8660752,
+      8660756,
+      8660796
+    ],
+    "mode": [
+      8643820,
+      8643824
+    ],
+    "animation_maps": [
+      7242224,
+      7242196
+    ],
+    "component_manager_alias": 7768512
+  },
+  "factory_sizes": {
+    "game": 156,
+    "profile": 64,
+    "tags": 68,
+    "players": 524,
+    "history": 12,
+    "events": 524,
+    "replay": 124,
+    "mode": 32
+  }
+}
