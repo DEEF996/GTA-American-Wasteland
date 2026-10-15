@@ -6,9 +6,26 @@
 
 ![Dwujęzyczny launcher GTA American Wasteland](docs/launcher.png)
 
-Nieoficjalny mod do klasycznego **Grand Theft Auto: San Andreas** na Windows, przeznaczony do gry jednoosobowej. Przełączaj CJ-a między GTA a jazdą na desce, wykonuj oryginalne triki i combosy z Tony Hawk's American Wasteland, grinduj po odpowiednich krawędziach i strzelaj podczas jazdy.
+Nieoficjalny mod do klasycznego **Grand Theft Auto: San Andreas** na Windows, przeznaczony do gry jednoosobowej. Przełączaj CJ-a między GTA a jazdą na desce, wykonuj oryginalne triki i combosy z Tony Hawk's American Wasteland, grinduj po odpowiednich krawędziach i strzelaj podczas jazdy. **Działa również parkour z THAW**, w tym schodzenie z deski, wbieganie po ścianach i wiszenie na krawędziach.
 
 **Wersja 1.0 preview:** działająca integracja nadal poddawana testom. Niektóre powierzchnie, przejścia animacji i krótkie przycięcia wymagają dalszych poprawek. Nie jest to gwarancja pełnej zgodności z THAW ani każdym modem GTA.
+
+## Screeny z rozgrywki
+
+Kliknij miniaturę, aby otworzyć oryginalny screen w pełnym rozmiarze.
+
+<table>
+  <tr>
+    <td><a href="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/1.png"><img src="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/1.png" width="260" alt="CJ wykonuje manual na torach kolejowych z widocznym wskaźnikiem balansu THAW"></a><br>Manuale i balans</td>
+    <td><a href="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/2.png"><img src="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/2.png" width="260" alt="CJ strzela podczas wykonywania combosa na desce"></a><br>Strzelanie podczas jazdy</td>
+    <td><a href="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/3.png"><img src="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/3.png" width="260" alt="CJ celuje ze strzelby podczas triku w powietrzu obok samochodów"></a><br>Triki w powietrzu i celowanie</td>
+  </tr>
+  <tr>
+    <td><a href="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/4.png"><img src="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/4.png" width="260" alt="CJ wykonuje boardslide po krawędzi z widocznym wskaźnikiem balansu grindu"></a><br>Grindy i combosy</td>
+    <td><a href="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/5.png"><img src="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/5.png" width="260" alt="CJ trzyma się samochodu z tyłu, jadąc na deskorolce"></a><br>Chwytanie samochodów</td>
+    <td><a href="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/6.png"><img src="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/6.png" width="260" alt="CJ wbiega po ścianie z deską w ręce, korzystając z parkouru THAW"></a><br>Parkour z THAW</td>
+  </tr>
+</table>
 
 ## Uruchomienie
 

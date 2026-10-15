@@ -6,9 +6,26 @@
 
 ![The bilingual GTA American Wasteland launcher](docs/launcher.png)
 
-An unofficial single-player mod for classic **Grand Theft Auto: San Andreas** on Windows. Switch between GTA and skating as CJ, use original Tony Hawk's American Wasteland tricks and animations, build combos, grind eligible world edges, and aim and fire while riding.
+A single-player mod for classic **Grand Theft Auto: San Andreas** on Windows. Switch between GTA and skating as CJ, use original Tony Hawk's American Wasteland tricks and animations, build combos, grind eligible world edges, and aim and fire while riding. **THAW parkour works too**, including getting off the board, running up walls and hanging from ledges.
 
 **1.0 preview:** a working integration under active testing. Some surfaces, animation transitions and timing spikes still need refinement. This is not a promise of complete THAW parity or compatibility with every GTA mod.
+
+## Gameplay screenshots
+
+Click any thumbnail to open the original full-size screenshot.
+
+<table>
+  <tr>
+    <td><a href="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/1.png"><img src="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/1.png" width="260" alt="CJ performing a manual on the railway tracks with the THAW balance meter"></a><br>Manuals and balance</td>
+    <td><a href="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/2.png"><img src="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/2.png" width="260" alt="CJ firing a weapon while performing a skateboard combo"></a><br>Shooting while skating</td>
+    <td><a href="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/3.png"><img src="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/3.png" width="260" alt="CJ aiming a shotgun during an aerial trick beside traffic"></a><br>Aerial tricks and aiming</td>
+  </tr>
+  <tr>
+    <td><a href="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/4.png"><img src="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/4.png" width="260" alt="CJ boardsliding along a ledge with the THAW grind balance meter"></a><br>Grinds and combos</td>
+    <td><a href="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/5.png"><img src="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/5.png" width="260" alt="CJ holding onto the back of a car while riding his skateboard"></a><br>Vehicle skitching</td>
+    <td><a href="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/6.png"><img src="https://raw.githubusercontent.com/DEEF996/GTA-American-Wasteland/main/docs/screenshots/6.png" width="260" alt="CJ running up a wall with his skateboard in hand using THAW parkour"></a><br>THAW parkour</td>
+  </tr>
+</table>
 
 ## Play
 
@@ -25,7 +42,7 @@ The launcher leaves the selected source installations unchanged. Allow space for
 
 ## Supported games
 
-- **Windows x64** and classic GTA San Andreas PC, supported **1.0 US executable**. Definitive Edition and other executable builds are not supported by this adapter.
+- **Windows x64** and classic GTA San Andreas PC, supported **1.0 US executable**, other executable builds are not supported by this adapter.
 - The supported original PC **THAW** build. **reTHAWed is not supported or required.**
 - Both games must be supplied by you. Setup checks exact executable/resource fingerprints and rejects incompatible files. It does not download game files or replace an unsupported executable.
 - A clean GTA source is recommended. Other ASIs, CLEO scripts, modified maps and custom game binaries are not automatically compatible.
