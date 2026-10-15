@@ -25,7 +25,7 @@ The launcher leaves the selected source installations unchanged. Allow space for
 
 ## Supported games
 
-- **Windows x64** and classic GTA San Andreas PC, supported **1.0 US executable**. Definitive Edition and other executable builds are not supported by this adapter.
+- **Windows x64** and classic GTA San Andreas PC, supported **1.0 US executable**, other executable builds are not supported by this adapter.
 - The supported original PC **THAW** build. **reTHAWed is not supported or required.**
 - Both games must be supplied by you. Setup checks exact executable/resource fingerprints and rejects incompatible files. It does not download game files or replace an unsupported executable.
 - A clean GTA source is recommended. Other ASIs, CLEO scripts, modified maps and custom game binaries are not automatically compatible.
